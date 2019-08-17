@@ -1,0 +1,5644 @@
+# Copyright (C) 2018 MyThemeShop
+# This file is distributed under the same license as the MyThemeShop Base Theme package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cyprus Theme by MyThemeShop\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2019-01-08 00:04+0530\n"
+"PO-Revision-Date: 2017-07-23 01:08+0530\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: MyThemeShop Team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "Error 404 Not Found"
+msgstr ""
+
+#: ../404.php:25
+msgid "Oops! We couldn't find this Page."
+msgstr ""
+
+#: ../404.php:26
+msgid "Please check your URL or use the search form below."
+msgstr ""
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:28
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:28
+msgid "One Response"
+msgstr ""
+
+#: ../comments.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:38
+msgid "Older comments"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comment Text*"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Name*"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Email*"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:63
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:16
+#: ../includes/class-cyprus-sidebars.php:30
+#: ../includes/theme-options/sidebars.php:24
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:41
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:19
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:27
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:33
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:46
+#: ../includes/theme-options/single-related.php:163
+msgid "Default"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:51
+msgid "No sidebar --"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:56
+msgid "Default side"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:57
+#: ../includes/admin/libs/mts-options/fields/margin/field_margin.php:45
+#: ../includes/theme-options/footer-brands.php:29
+#: ../includes/theme-options/footer-nav.php:29
+#: ../includes/theme-options/footer.php:66
+#: ../includes/theme-options/home-pagination.php:35
+#: ../includes/theme-options/home-posts.php:206
+#: ../includes/theme-options/home-posts.php:588
+#: ../includes/theme-options/single-styling.php:27
+#: ../includes/theme-options/single.php:59
+#: ../includes/widgets/widget-social.php:519
+msgid "Left"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:58
+#: ../includes/admin/libs/mts-options/fields/margin/field_margin.php:37
+#: ../includes/theme-options/footer-brands.php:31
+#: ../includes/theme-options/footer-nav.php:31
+#: ../includes/theme-options/footer.php:68
+#: ../includes/theme-options/home-pagination.php:37
+#: ../includes/theme-options/home-posts.php:208
+#: ../includes/theme-options/home-posts.php:590
+#: ../includes/theme-options/single-styling.php:29
+#: ../includes/theme-options/single.php:61
+#: ../includes/widgets/widget-social.php:507
+msgid "Right"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:131
+msgid "Header Animation"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:155
+#: ../includes/theme-options/footer-nav.php:332
+msgid "None"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:156
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin-metabox.php:157
+msgid "Zoom Out Effect"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-admin.php:57
+#: ../includes/admin/class-cyprus-demo-importer.php:106
+#: ../includes/class-cyprus-settings.php:77
+#: ../includes/class-cyprus-settings.php:79
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:29
+msgid "Import / Export"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:52
+msgid "Import / Export Settings"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:58
+msgid "Child Theme Generator"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:62
+#: ../includes/admin/libs/mts-options/templates/import-export.php:29
+msgid ""
+"Are you sure you want to import options? All current options will be lost."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:70
+msgid "Demo Importer"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:91
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2784
+msgid "Install"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:92
+msgid "Preview"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:103
+msgid "Content to import:"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:105
+msgid "Content"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:107
+msgid "Widgets"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:108
+msgid "Are you sure you want to import?"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:108
+msgid "Start importing"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:167
+msgid "Cyprus Default"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:177
+msgid "Cyprus Blog"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:194
+#: ../includes/admin/class-cyprus-demo-importer.php:238
+msgid "You are not authorized to perform this action."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:199
+msgid "Action not allowed."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:204
+msgid "Unable to perform action this time."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:208
+#: ../includes/admin/class-cyprus-demo-importer.php:256
+msgid "Settings imported successfully."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:209
+msgid "Widgets imported successfully."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:210
+msgid "Content imported successfully. "
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:214
+#: ../includes/admin/class-cyprus-demo-importer.php:259
+msgid "Settings import failed."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:215
+msgid "Widgets import failed."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:216
+msgid "Content import failed."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:242
+msgid "Please add code to import."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:248
+msgid "Invalid data."
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:382
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:403
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:419
+msgid "Widget already exists"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:462
+msgid "Imported"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:465
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../includes/admin/class-cyprus-demo-importer.php:471
+msgid "No Title"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:32
+msgid "Try it for FREE!"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:33
+msgid "Click here to activate it."
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:37
+#, php-format
+msgid ""
+"%1$s is a revolutionary SEO product that combines the features of many SEO "
+"tools. Its features give you the power of an entire SEO team with just a few "
+"clicks."
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:44
+#, php-format
+msgid "The new %1$s plugin will help you rank better in the search results."
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:47
+#, php-format
+msgid "The %1$s plugin is installed but not activated."
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:54
+msgid "Did you know?"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:57
+#, php-format
+msgid ""
+"The new %1$s plugin can make your site load faster, offers more features, "
+"and can import your current SEO settings with one click."
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:131
+msgid "Rank Math SEO"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:147
+#: ../includes/admin/class-rank-math-notice.php:131
+msgid "Dismiss"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:594
+msgid "Install Now"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:594
+msgid "Activate It"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:604
+msgid "SEO"
+msgstr ""
+
+#: ../includes/admin/class-mts-rmu.php:605
+msgid ""
+"Fix all your SEO issues with just a few clicks. Comply with all the latest "
+"Google’s guidelines."
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:47
+msgid "Install for FREE"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:51
+msgid "Activate it now"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:86
+msgid "The Future of WordPress SEO is Here!"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:90
+msgid "Google Search Console Integration"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:93
+msgid "Google Keyword Ranking"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:96
+msgid "Google Keyword Suggestion"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:99
+msgid "Google Schema Rich Snippets"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:102
+msgid "Advanced SEO Analysis Tool"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:105
+msgid "Automated Image SEO"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:108
+msgid "XML Sitemap"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:111
+msgid "404 Monitor"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:114
+msgid "Redirection Manager"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:117
+msgid "Local SEO Optimization"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:120
+msgid "Lightweight"
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:123
+msgid "and much more..."
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:128
+msgid "A MyThemeShop Product."
+msgstr ""
+
+#: ../includes/admin/class-rank-math-notice.php:150
+msgid "Activating..."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:22
+msgid ""
+"We created <a href=\"https://mythemeshop.com/plugins/wordpress-seo/\">Rank "
+"Math, a WordPress SEO plugin</a>, to help every website owner get access to "
+"the SEO tools they need to improve their SEO and attract more traffic to "
+"their website."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:43
+msgid ""
+"A simple and easy way to update your MyThemeShop themes and plugins to the "
+"the latest versions using good old one click method!"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:53
+msgid ""
+"WP Tab Widget Pro is the most powerful plugin for showing recommended "
+"content on blog posts to increase engagement and keep visitors on your site "
+"purpose."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:63
+msgid ""
+"Create reviews! Choose from Stars, Percentages, Circles or Points for review "
+"scores. Supports Retina Display, WPMU & Unlimited Color Schemes."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:73
+msgid ""
+"These days, having an email subscriber list is key to running a successful "
+"blog, so we created WP Subscribe Pro. Boost your conversions of traffic to "
+"subscribers, and generate more residual traffic and earnings. WP Subscribe "
+"Pro supports Feedburner, MailChimp and Aweber and is a must-have plugin for "
+"any blog."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:83
+#: ../includes/admin/cyprus-tgm-functions.php:118
+msgid ""
+"WP Quiz is a completely FREE quiz plugin that will let you create endlessly "
+"customizable and highly professional quizzes for your WordPress site."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:93
+msgid ""
+"WP Notification Bar is a custom notification and alert bar plugin for "
+"WordPress which is perfect for marketing promotions, alerts, increasing "
+"click throughs to other pages and so much more."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:101
+msgid ""
+"WP Mega Menu is an easy to use plugin for creating beautiful, customized "
+"menus for your site. With no setup required, tons of options to choose from, "
+"and the ability to show categories, subcategories and posts, WP MegaMenu is "
+"a must have plugin that also boosts SEO and user engagement."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:128
+msgid ""
+"My WP Backup Pro is the best way to protect your data and website in the "
+"event of adverse server events, data corruption, hacking and more. With the "
+"option to schedule backups and have them delivered via email, Amazon S3, and "
+"lots of other features, you can sleep easy knowing you're protected."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:178
+msgid "Install/Update Required Plugins"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:179
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:309
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:180
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:311
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:181
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:314
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:192
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:366
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:193
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:368
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3227
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:194
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:234
+msgid "MyThemeShop"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:352
+msgid "Essential"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:357
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2341
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:384
+msgid "Recommended Plugins"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:385
+#, php-format
+msgid "MyThemeShop and third party plugins recommended for %s theme!"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:440
+msgid "Get Pro Version!"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:452
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2386
+msgid "Active"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:454
+msgid "Manage Plugin"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:459
+msgid "Inactive"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:473
+msgid "Activate Plugin"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:480
+msgid "Update Now"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:488
+msgid "Get it!"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:506
+msgid "Install Plugin"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:526
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2380
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/admin/cyprus-tgm-functions.php:604
+#: ../includes/class-cyprus-scripts.php:199
+msgid "Loading..."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:308
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:313
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:367
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:369
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:373
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:375
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:376
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:377
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:378
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:532
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:647
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:956
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:956
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:966
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:966
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:1139
+msgid "Installation/Update Of Required Plugins Needed"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2029
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2338
+msgid "Required"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2357
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2360
+msgid "External Source"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2363
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2384
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2392
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2395
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2398
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2407
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2547
+msgid "unknown"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2555
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2563
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2575
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2598
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2612
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2613
+msgid "Source"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2614
+msgid "Type"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2618
+msgid "Version"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2619
+msgid "Status"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2668
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2673
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2679
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2751
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2790
+msgid "Update"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2793
+msgid "Activate"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2824
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2826
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2867
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2869
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:2976
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3002
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3226
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3570
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3575
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3579
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3582
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3587
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3590
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3597
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/admin/libs/class-tgm-plugin-activation.php:3597
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:20
+msgid "No Repeat"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:21
+msgid "Repeat All"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:22
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:23
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:28
+msgid "Fixed"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:29
+msgid "Scroll"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:34
+msgid "Left Top"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:35
+msgid "Left center"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:36
+msgid "Left Bottom"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:37
+msgid "Center Top"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:38
+msgid "Center Center"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:39
+msgid "Center Bottom"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:40
+msgid "Right Top"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:41
+msgid "Right center"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:42
+msgid "Right Bottom"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:47
+msgid "Cover"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:48
+msgid "Contain"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:52
+#: ../includes/admin/libs/mts-options/fields/switch/field_switch.php:18
+#: ../includes/theme-options/social.php:56
+#: ../includes/theme-options/styling.php:75
+msgid "Off"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:53
+#: ../includes/admin/libs/mts-options/fields/switch/field_switch.php:19
+#: ../includes/theme-options/social.php:57
+#: ../includes/theme-options/styling.php:76
+msgid "On"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:89
+msgid "Background Color:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:93
+msgid "Background Image:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:98
+msgid "Pattern"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:102
+msgid "Upload"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:106
+msgid "Gradient"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:152
+#: ../includes/admin/libs/mts-options/fields/upload/field_upload.php:34
+msgid "Browse"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:154
+#: ../includes/admin/libs/mts-options/fields/upload/field_upload.php:35
+msgid "Remove Upload"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:167
+msgid "Background Repeat:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:186
+msgid "Background Attachment:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:205
+msgid "Background Position:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:224
+msgid "Background Size:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:247
+#: ../includes/admin/libs/mts-options/fields/color_gradient/field_color_gradient.php:17
+msgid "From:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:252
+msgid "To:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:257
+msgid "Direction (enter deg for gradient direction):"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/background/field_background.php:271
+msgid "Parallax Effect:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/color_gradient/field_color_gradient.php:20
+msgid " To:"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/group/field_group.php:22
+msgid "New"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/group/field_group.php:35
+msgid "New "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/group/field_group.php:111
+#: ../includes/admin/libs/mts-options/fields/group/field_group.php:201
+#: ../includes/admin/libs/mts-options/fields/layout2/field_layout2.php:158
+msgid "OK"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/group/field_group.php:112
+#: ../includes/admin/libs/mts-options/fields/group/field_group.php:202
+msgid "Delete"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/group/field_group.php:208
+msgid "Add"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/icon_select/field_icon_select.php:30
+msgid "No Icon"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/margin/field_margin.php:33
+#: ../includes/widgets/widget-social.php:501
+msgid "Top"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/margin/field_margin.php:41
+#: ../includes/widgets/widget-social.php:513
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/multi_text/field_multi_text.php:20
+#: ../includes/admin/libs/mts-options/fields/multi_text/field_multi_text.php:24
+#: ../includes/admin/libs/mts-options/fields/multi_text/field_multi_text.php:27
+msgid "Remove"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/multi_text/field_multi_text.php:31
+msgid "Add More"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/select/field_select.php:18
+msgid "Select"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/select/field_select.php:40
+msgid "Latest Posts"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/select/field_select.php:55
+msgid "Select All"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:91
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:109
+msgid "Font Family"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:102
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:103
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:118
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:119
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:114
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:128
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:117
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:131
+msgid "Style"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:129
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:130
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:143
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:144
+#: ../includes/widgets/widget-social.php:475
+msgid "Font Color"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:138
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:150
+#: ../includes/theme-options/back-to-top.php:105
+#: ../includes/theme-options/footer-nav.php:446
+#: ../includes/widgets/widget-social.php:487
+msgid "Font Size"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:139
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:151
+msgid "Size"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:145
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:146
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:155
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:156
+msgid "Line Height"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:152
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:153
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:160
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:161
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:161
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:162
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:167
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:168
+msgid "Margin Top"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:168
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:169
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:172
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:173
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:177
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:179
+msgid "CSS Selectors"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography/field_typography.php:184
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:184
+msgid "Additional CSS"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:43
+#: ../includes/theme-options/typography-collection.php:19
+msgid "Theme Typography"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:44
+msgid "Add New Collection"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/typography_collections/field_typography_collections.php:46
+msgid "Reset Collections"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/fields/upload/field_upload.php:46
+#: ../includes/admin/libs/mts-options/fields/upload/field_upload.php:47
+msgid "Select Image"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:42
+#: ../includes/admin/libs/mts-options/options.php:44
+msgid "Options"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:338
+msgid "Are you sure you want to reset options to default?"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:339
+msgid ""
+"Settings have changed, you should save them! Are you sure you want to leave "
+"this page?"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:340
+msgid "Please enter desired child theme name . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:341
+msgid "Importing proccess finished!"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:342
+msgid "Importing proccess failed! Please try again . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:343
+msgid "Removal proccess finished!"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:344
+msgid "Removal proccess failed! Please try again . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:345
+msgid "Reloading page.. . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:346
+msgid ""
+"Are you sure you want to import demo options? All current options will be "
+"lost . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:347
+msgid ""
+"Are you sure you want to import demo options and widgets? All current "
+"options will be lost and existing widgets deactivated . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:348
+msgid "Are you sure you want to import demo?"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:349
+msgid ""
+"Are you sure you want to remove demo options, content, menus and widgets? "
+"Please note that all modifications you've made to imported content will be "
+"lost"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:1233
+msgid "Default sidebar"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/options.php:1235
+msgid "No Sidebar (Full Width)"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/content.php:30
+msgid "No options found, please refine your query . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/dev-mode.php:2
+#: ../includes/admin/libs/mts-options/templates/sidebar.php:18
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/header.php:9
+msgid "Welcome to your theme's mission control center."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/header.php:12
+#: ../includes/class-cyprus-settings.php:106
+msgid "Support"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/import-export.php:4
+msgid "Import Code"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/import-export.php:8
+msgid "Show Export Code"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/import-export.php:12
+msgid "Export as File"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/import-export.php:21
+msgid ""
+"Insert your backup code below and hit Import to restore your site options "
+"from a backup . "
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/warnings.php:5
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/warnings.php:9
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/warnings.php:18
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/warnings.php:22
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/templates/warnings.php:26
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/color/validation_color.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../includes/admin/libs/mts-options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/parsers.php:42
+#: ../includes/admin/libs/wordpress-importer/parsers.php:72
+#: ../includes/admin/libs/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/parsers.php:84
+#: ../includes/admin/libs/wordpress-importer/parsers.php:89
+#: ../includes/admin/libs/wordpress-importer/parsers.php:306
+#: ../includes/admin/libs/wordpress-importer/parsers.php:502
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:132
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:141
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:192
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:196
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:516
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:870
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:877
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:940
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:953
+msgid "Invalid file type"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1003
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1011
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1018
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1023
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1029
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1129
+msgid "Import WordPress"
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1136
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1151
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1152
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../includes/admin/libs/wordpress-importer/wordpress-importer.php:1226
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../includes/class-cyprus-featured-layouts.php:153
+msgid "Latest"
+msgstr ""
+
+#: ../includes/class-cyprus-featured-layouts.php:211
+#: ../includes/functions-cyprus-utility.php:590
+msgid "No Preview"
+msgstr ""
+
+#: ../includes/class-cyprus-featured-layouts.php:255
+#: ../includes/class-cyprus-sidebars.php:184
+msgid "Latest "
+msgstr ""
+
+#: ../includes/class-cyprus-scripts.php:198
+msgid "Load More Posts"
+msgstr ""
+
+#: ../includes/class-cyprus-scripts.php:200
+msgid "No more posts."
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:93
+msgid "Follow Us on Twitter"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:99
+msgid "Like us on Facebook"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:108
+#, php-format
+msgid ""
+"If you are facing any problem with our theme or theme option panel, head "
+"over to our %s."
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:108
+msgid "Support Forums"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:113
+msgid "Earn Money"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:115
+#, php-format
+msgid ""
+"Earn 70&#37; commision on every sale by refering your friends and readers. "
+"Join our %s."
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:115
+msgid "Affiliate Program"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:132
+#: ../includes/theme-options/footer.php:15
+#: ../includes/theme-options/general.php:10
+#: ../includes/theme-options/header.php:14
+#: ../includes/theme-options/single.php:9
+#: ../includes/theme-options/social.php:15
+msgid "General"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:187
+#: ../includes/class-cyprus-settings.php:188
+#: ../includes/theme-options/home.php:10
+#: ../includes/theme-options/sidebars.php:46
+msgid "Homepage"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:209
+#: ../includes/class-cyprus-settings.php:210
+#: ../includes/theme-options/sidebars.php:9
+msgid "Sidebars"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:234
+#: ../includes/class-cyprus-settings.php:235
+msgid "Single"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:255
+#: ../includes/class-cyprus-settings.php:256
+#: ../includes/theme-options/typography-collection.php:10
+msgid "Typography"
+msgstr ""
+
+#: ../includes/class-cyprus-settings.php:299
+msgid "Invalid Secret for options use"
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:31
+msgid "Default sidebar."
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:38
+msgid "Single Subscribe"
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:39
+msgid "This sidebar will show on Single Page."
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:82
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:83
+msgid "Appears on Shop main page and product archive pages."
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:87
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:88
+msgid "Appears on single product pages."
+msgstr ""
+
+#: ../includes/class-cyprus-sidebars.php:104
+msgid "Footer "
+msgstr ""
+
+#: ../includes/class-cyprus-single-sections.php:51
+#: ../includes/theme-options/single.php:117
+#: ../includes/theme-options/single.php:137
+msgid "Tags"
+msgstr ""
+
+#: ../includes/class-cyprus-single-sections.php:125
+#: ../includes/functions-cyprus-template-tags.php:221
+#: ../includes/functions-cyprus-template-tags.php:228
+#: ../page-templates/contact.php:43 ../page.php:59
+msgid "Next"
+msgstr ""
+
+#: ../includes/class-cyprus-single-sections.php:126
+#: ../includes/functions-cyprus-template-tags.php:220
+#: ../includes/functions-cyprus-template-tags.php:227
+#: ../page-templates/contact.php:44 ../page.php:60
+msgid "Previous"
+msgstr ""
+
+#: ../includes/class-cyprus-single-sections.php:136
+msgid "About The Author"
+msgstr ""
+
+#: ../includes/class-cyprus.php:78 ../includes/class-cyprus.php:85
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../includes/class-cyprus.php:164
+msgid "Primary"
+msgstr ""
+
+#: ../includes/class-cyprus.php:165
+msgid "Secondary"
+msgstr ""
+
+#: ../includes/class-cyprus.php:166 ../includes/theme-options/footer.php:10
+#: ../includes/theme-options/footer.php:31
+msgid "Footer"
+msgstr ""
+
+#: ../includes/class-cyprus.php:167
+msgid "Mobile"
+msgstr ""
+
+#: ../includes/class-cyprus.php:528 ../includes/class-cyprus.php:531
+msgid ""
+"You will find all the theme options here after connecting with your "
+"MyThemeShop account."
+msgstr ""
+
+#: ../includes/contact-form.php:34 ../includes/contact-form.php:52
+msgid "An error occurred. Please contact site administrator."
+msgstr ""
+
+#: ../includes/contact-form.php:65
+msgid "Please check the consent checkbox if you want to proceed."
+msgstr ""
+
+#: ../includes/contact-form.php:77 ../includes/contact-form.php:82
+msgid "Please try again."
+msgstr ""
+
+#: ../includes/contact-form.php:88
+msgid "Please enter your name."
+msgstr ""
+
+#: ../includes/contact-form.php:94
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../includes/contact-form.php:100
+msgid "Please enter a message."
+msgstr ""
+
+#: ../includes/contact-form.php:116
+msgid "Contact Form Message from"
+msgstr ""
+
+#: ../includes/contact-form.php:117
+msgid "Name:"
+msgstr ""
+
+#: ../includes/contact-form.php:118
+#: ../includes/widgets/widget-contactinfo.php:57
+msgid "Email:"
+msgstr ""
+
+#: ../includes/contact-form.php:119
+msgid "Message:"
+msgstr ""
+
+#: ../includes/contact-form.php:138 ../includes/theme-options/sidebars.php:29
+msgid "Name"
+msgstr ""
+
+#: ../includes/contact-form.php:141
+msgid "Email"
+msgstr ""
+
+#: ../includes/contact-form.php:144
+msgid "Message"
+msgstr ""
+
+#: ../includes/contact-form.php:149
+msgid "Please tick to agree to be contacted."
+msgstr ""
+
+#: ../includes/contact-form.php:152
+msgid "Send"
+msgstr ""
+
+#: ../includes/contact-form.php:155
+msgid "Your message has been sent."
+msgstr ""
+
+#: ../includes/extensions/menu/class-cyprus-menu-manager.php:40
+msgid "Icon (optional)"
+msgstr ""
+
+#: ../includes/extensions/menu/class-cyprus-menu-manager.php:47
+msgid "Color (optional)"
+msgstr ""
+
+#: ../includes/functions-cyprus-attr.php:241
+#, php-format
+msgid "%s Sidebar"
+msgstr ""
+
+#: ../includes/functions-cyprus-attr.php:272
+#, php-format
+msgid "%s Menu"
+msgstr ""
+
+#: ../includes/functions-cyprus-attr.php:461
+#: ../includes/functions-cyprus-attr.php:570
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:70
+msgid "Tags: "
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:197
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:288
+msgid "Featured Image"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:431
+msgid "Copyright"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:477
+#: ../includes/functions-cyprus-template-tags.php:498
+msgid "( Edit )"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:481
+#: ../includes/functions-cyprus-template-tags.php:502
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:611
+msgid "Read More"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:647
+msgid "Home"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:799
+#: ../includes/theme-options/single-related.php:9
+#: ../includes/theme-options/single.php:102
+#: ../includes/widgets/widget-relatedposts.php:44
+msgid "Related Posts"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:1133
+#: ../includes/functions-cyprus-template-tags.php:1218
+#: ../includes/functions-cyprus-template-tags.php:1294
+#: ../includes/functions-cyprus-template-tags.php:1362
+msgid "Tweet"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:1158
+msgid "Pin It"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:1174
+#: ../includes/functions-cyprus-template-tags.php:1208
+#: ../includes/functions-cyprus-template-tags.php:1224
+#: ../includes/functions-cyprus-template-tags.php:1247
+#: ../includes/functions-cyprus-template-tags.php:1284
+#: ../includes/functions-cyprus-template-tags.php:1300
+#: ../includes/functions-cyprus-template-tags.php:1315
+#: ../includes/functions-cyprus-template-tags.php:1352
+#: ../includes/functions-cyprus-template-tags.php:1368
+#: ../includes/functions-cyprus-template-tags.php:1383
+#: ../includes/functions-cyprus-template-tags.php:1389
+#: ../includes/functions-cyprus-template-tags.php:1395
+msgid "Share"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:1182
+msgid "submit to reddit"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:1241
+#: ../includes/functions-cyprus-template-tags.php:1309
+#: ../includes/functions-cyprus-template-tags.php:1377
+msgid "Pin"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:1253
+#: ../includes/functions-cyprus-template-tags.php:1321
+msgid "Stumble"
+msgstr ""
+
+#: ../includes/functions-cyprus-template-tags.php:1259
+#: ../includes/functions-cyprus-template-tags.php:1327
+#: ../includes/theme-options/social.php:79
+#: ../includes/theme-options/social.php:93
+msgid "Reddit"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:334
+msgid "Web Application Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:337
+msgid "Accessibility Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:340
+msgid "Hand Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:343
+msgid "Transportation Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:346
+msgid "Gender Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:349
+msgid "File Type Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:352
+msgid "Spinner Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:355
+msgid "Form Control Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:358
+msgid "Payment Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:361
+msgid "Chart Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:364
+msgid "Currency Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:367
+msgid "Text Editor Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:370
+msgid "Directional Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:373
+msgid "Video Player Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:376
+msgid "Brand Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:379
+msgid "Medical Icons"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:560
+msgid "Custom Gravatar ( /images/gravatar.png )"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:711
+msgid "Results"
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:711
+msgid "Show all results."
+msgstr ""
+
+#: ../includes/functions-cyprus-utility.php:713
+msgid "No results found."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:59
+msgid "Ad Management"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:60
+msgid ""
+"Now, ad management is easy with our options panel. You can control "
+"everything from here, without using separate plugins."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:68
+msgid "Detect Ad Blocker"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:69
+msgid ""
+"If user is using any ad blocker extension then this option will hide the "
+"content and will ask user to white-list your website."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:76
+msgid "Ad Blocker Notice Type"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:79
+msgid "Hide Content"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:80
+msgid "Show Popup"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:81
+msgid "Floating Notice"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:82
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:85
+#, php-format
+msgid "Choose Ad Blocker Notice type from here. SHORTCODE: %s "
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:99
+msgid "Ad Blocker Title"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:100
+msgid "Enter Ad Blocker detector Title here."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:101
+msgid "Ad Blocker Detected"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:114
+msgid "Ad Blocker Description"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:115
+msgid "Enter Ad Blocker detector Description here."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:116
+msgid ""
+"Our website is made possible by displaying online advertisements to our "
+"visitors. Please consider supporting us by disabling your ad blocker."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:129
+msgid "Site Background Clickable"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:130
+msgid "This option will make your website background clickable."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:136
+msgid "Site Background URL"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:137
+msgid "Enter URL Here"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:151
+msgid "Site Background Click - Open in new Tab"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:152
+msgid "Enable this option to open link in a new tab."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:168
+msgid "Header Ad"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:169
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads in Header Area."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:174
+msgid "Header Adcode Show on"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:175
+msgid "Choose where you want to show the header adcode"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:177
+msgid "All Pages"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:178
+msgid "Home Page"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:179
+#: ../includes/theme-options/sidebars.php:59
+msgid "Single Post"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:180
+msgid "Pages"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:187
+msgid "Header Ad Size [For Adsense Ads]"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:188
+#: ../includes/theme-options/ad-management.php:231
+msgid ""
+"If you leave the AdSense size boxes on Auto, the theme will automatically "
+"resize the Google ads. Note: For smaller screens ads will be set on Auto "
+"mode irrespective of size defined here."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:195
+msgid "Header Ad Margin"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:196
+msgid "Set header ad margin from here."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:208
+msgid "Navigation Ad"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:209
+msgid "This option will let you add an Ad below Navigation menu."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:216
+msgid "Navigation Ad Code"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:217
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads in the Header."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:230
+msgid "Navigation Ad Size [For Adsense Ads]"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:246
+msgid "Navigation Ad Background"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:247
+msgid "Set background color for navigation Ad from here."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:263
+msgid "Before Footer"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:264
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads before footer."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:269
+#: ../includes/theme-options/ad-management.php:286
+#: ../includes/theme-options/ad-management.php:303
+msgid "Show After X Days"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:270
+msgid ""
+"Enter the number of days after which you want to show the before footer. "
+"Enter 0 to disable this feature."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:280
+msgid "Below Post Title"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:281
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below your article "
+"title on single posts."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:287
+#: ../includes/theme-options/ad-management.php:304
+msgid ""
+"Enter the number of days after which you want to show the Below Post Title "
+"Ad. Enter 0 to disable this feature."
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:297
+msgid "Below Post Content"
+msgstr ""
+
+#: ../includes/theme-options/ad-management.php:298
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads below the post "
+"content on single posts."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:10
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:14
+msgid "Code Fields (Tracking etc.)"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:15
+#: ../includes/theme-options/advance.php:50
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:16
+msgid "Theme Features"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:17
+msgid "Dynamic CSS"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:29
+msgid "Before &lt;/head&gt;"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:30
+msgid ""
+"Enter the code which you need to place <strong>before closing &lt;/head&gt; "
+"tag</strong>. (ex: Google Webmaster Tools verification, Bing Webmaster "
+"Center, BuySellAds Script, Alexa verification etc.)"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:36
+msgid "Footer Code"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:37
+msgid ""
+"Enter the codes which you need to place in your footer. <strong>(ex: Google "
+"Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)</strong>."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:51
+msgid ""
+"You can enter custom CSS code here to further customize your theme. This "
+"will override the default CSS used on your site."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:67
+msgid "Retina Images"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:68
+msgid "Use this button to enable/disable automatic creation of retina images."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:75
+msgid "Responsive Images"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:76
+msgid "Turn on for images to change size responsively."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:83
+msgid "Open Graph Meta Tags"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:84
+msgid ""
+"Turn on to enable open graph meta tags which is mainly used when sharing "
+"pages on social networking sites like Facebook."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:97
+msgid "CSS Compiler"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:98
+msgid ""
+"Turn on to compile the dynamic CSS into a file. A separate file will be "
+"created for each of your pages & posts inside of the uploads/cyprus-styles "
+"folder."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:105
+msgid "Database Caching for Dynamic CSS"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:106
+msgid "Turn on to enable caching the dynamic CSS in your database."
+msgstr ""
+
+#: ../includes/theme-options/advance.php:120
+msgid "Cache Server IP"
+msgstr ""
+
+#: ../includes/theme-options/advance.php:121
+msgid ""
+"For unique cases where you are using cloud flare and a cache server, ex: "
+"varnish cache. Enter your cache server IP to clear the theme options dynamic "
+"CSS cache. Consult with your server admin for help."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:9
+msgid "Back to Top"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:10
+msgid "From here, you can control the back to top button."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:18
+msgid "Show Top Button"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:19
+msgid "Enable or disable back to top button with this option."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:26
+msgid "Top Button Icon"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:27
+msgid "Set icon for top button icon with this option."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:42
+msgid "Top Button Icon Color"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:43
+#: ../includes/theme-options/back-to-top.php:58
+#: ../includes/theme-options/home-posts.php:226
+#: ../includes/theme-options/home-posts.php:505
+#: ../includes/theme-options/home-posts.php:512
+#: ../includes/theme-options/home-posts.php:519
+#: ../includes/theme-options/home-posts.php:527
+#: ../includes/theme-options/home-posts.php:613
+#: ../includes/theme-options/single-subscribe.php:241
+#: ../includes/theme-options/styling.php:20
+msgid "The theme comes with unlimited color schemes for your theme's styling."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:57
+msgid "Top Button Icon Hover Color"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:73
+msgid "Top Button Background"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:74
+#: ../includes/theme-options/back-to-top.php:89
+msgid "Set top button background color, pattern and image from here."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:88
+msgid "Top Button Hover Background"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:106
+msgid "Set font size of top button in px."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:122
+#: ../includes/theme-options/footer-brands.php:121
+#: ../includes/theme-options/footer-nav.php:68
+#: ../includes/theme-options/footer-nav.php:311
+#: ../includes/theme-options/home-posts.php:545
+#: ../includes/theme-options/home-posts.php:808
+#: ../includes/theme-options/home-posts.php:920
+#: ../includes/theme-options/single-authorbox.php:79
+#: ../includes/theme-options/single-related.php:203
+#: ../includes/theme-options/single-subscribe.php:99
+#: ../includes/theme-options/single-subscribe.php:384
+#: ../includes/widgets/widget-social.php:499
+msgid "Padding"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:123
+msgid "Set Top button padding from here."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:142
+msgid "Top Button Position"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:143
+msgid "Set top button position from here."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:164
+#: ../includes/theme-options/single-authorbox.php:92
+#: ../includes/theme-options/single-authorbox.php:177
+#: ../includes/theme-options/single-subscribe.php:120
+#: ../includes/theme-options/single-subscribe.php:273
+#: ../includes/theme-options/single-subscribe.php:354
+#: ../includes/widgets/widget-social.php:493
+msgid "Border Radius"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:165
+msgid "Set border radius of top button in px."
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:181
+#: ../includes/theme-options/footer-brands.php:141
+#: ../includes/theme-options/footer-nav.php:88
+#: ../includes/theme-options/footer-styling.php:139
+#: ../includes/theme-options/header.php:70
+#: ../includes/theme-options/header.php:137
+#: ../includes/theme-options/home-pagination.php:115
+#: ../includes/theme-options/home-posts.php:317
+#: ../includes/theme-options/home-posts.php:901
+#: ../includes/theme-options/sidebars-styling.php:81
+#: ../includes/theme-options/sidebars-styling.php:146
+#: ../includes/theme-options/single-authorbox.php:100
+#: ../includes/theme-options/single-styling.php:82
+#: ../includes/theme-options/single-styling.php:174
+#: ../includes/theme-options/single-subscribe.php:136
+#: ../includes/theme-options/single-subscribe.php:289
+#: ../includes/theme-options/single-subscribe.php:370
+#: ../includes/theme-options/social-styling.php:63
+msgid "Border"
+msgstr ""
+
+#: ../includes/theme-options/back-to-top.php:182
+#: ../includes/theme-options/footer-brands.php:142
+#: ../includes/theme-options/footer-nav.php:89
+#: ../includes/theme-options/footer-styling.php:140
+#: ../includes/theme-options/home-pagination.php:116
+#: ../includes/theme-options/home-posts.php:318
+#: ../includes/theme-options/home-posts.php:902
+#: ../includes/theme-options/sidebars-styling.php:147
+#: ../includes/theme-options/single-authorbox.php:101
+#: ../includes/theme-options/single-styling.php:83
+#: ../includes/theme-options/single-styling.php:175
+#: ../includes/theme-options/single-subscribe.php:137
+#: ../includes/theme-options/single-subscribe.php:290
+#: ../includes/theme-options/single-subscribe.php:371
+#: ../includes/theme-options/social-styling.php:64
+msgid "Select border"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:9
+#: ../includes/theme-options/footer-brands.php:18
+msgid "Brands Section"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:10
+msgid "From here, you can control the Brands Section."
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:19
+msgid "Enable or disable Brands Section with this option."
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:26
+msgid "Brands Section Alignment"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:27
+msgid "Choose alignment of Brands Section."
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:30
+#: ../includes/theme-options/footer-nav.php:30
+#: ../includes/theme-options/home-pagination.php:36
+#: ../includes/theme-options/home-posts.php:207
+#: ../includes/theme-options/home-posts.php:589
+#: ../includes/theme-options/single-styling.php:28
+#: ../includes/theme-options/single.php:60
+msgid "Center"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:48
+msgid "Brands Title"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:49
+msgid "Enter brands title here."
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:50
+msgid "Our Brands:"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:65
+msgid "Brands"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:66
+msgid "Brand"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:71
+#: ../includes/theme-options/footer-nav.php:271
+#: ../includes/theme-options/header.php:92
+#: ../includes/theme-options/home-posts.php:46
+#: ../includes/theme-options/home-posts.php:76
+#: ../includes/theme-options/home.php:26
+#: ../includes/widgets/widget-fblikebox.php:85
+msgid "Title"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:72
+msgid "The title will not be shown."
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:77
+#: ../includes/theme-options/home-posts.php:51
+#: ../includes/theme-options/home-posts.php:88
+msgid "Image"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:78
+msgid "Upload or select an image for brand"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:83
+#: ../includes/theme-options/home-posts.php:57
+msgid "Link"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:84
+msgid "Insert a link URL of brand"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:101
+#: ../includes/theme-options/footer-nav.php:48
+#: ../includes/theme-options/footer-nav.php:306
+#: ../includes/theme-options/home-posts.php:384
+#: ../includes/theme-options/home-posts.php:412
+#: ../includes/theme-options/home-posts.php:442
+#: ../includes/theme-options/home-posts.php:470
+#: ../includes/theme-options/home-posts.php:533
+#: ../includes/theme-options/home-posts.php:907
+#: ../includes/theme-options/single-authorbox.php:67
+#: ../includes/theme-options/single-authorbox.php:164
+#: ../includes/theme-options/single-related.php:191
+#: ../includes/theme-options/single-subscribe.php:79
+#: ../includes/theme-options/single.php:170
+#: ../includes/theme-options/single.php:198
+#: ../includes/theme-options/single.php:226
+#: ../includes/theme-options/single.php:254
+msgid "Margin"
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:102
+msgid "Brands Section margin."
+msgstr ""
+
+#: ../includes/theme-options/footer-brands.php:122
+msgid "Brands Section padding."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:9
+#: ../includes/theme-options/footer-nav.php:18
+msgid "Navigation Section"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:10
+msgid "From here, you can control the Navigation Section."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:19
+msgid "Enable or disable Navigation Section with this option."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:26
+msgid "Navigation Section Alignment"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:27
+msgid "Choose alignment of Navigation Section."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:49
+msgid "Navigation Section margin."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:69
+msgid "Navigation Section padding."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:109
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:133
+msgid "Nav Menu items"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:147
+msgid "Menu Items Margin"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:148
+msgid "Navigation Section menu item margin."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:167
+msgid "Show Nav Separator"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:168
+msgid "Enable or disable nav separator with this option."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:183
+msgid "Separator"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:184
+msgid "Use any separator, ex: \"-\" \"/\" \"|\" \".\" \">\""
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:198
+msgid "Separator Color"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:199
+msgid "Set nav separator color from here."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:213
+msgid "Separator Margin"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:214
+msgid "Nav Separator margin."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:234
+#: ../includes/theme-options/footer-nav.php:248
+#: ../includes/theme-options/footer-nav.php:266
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:249
+msgid "Enable or disable social icons with this option."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:263
+msgid "Footer Social Icons"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:264
+msgid "Add Social Media icons in footer nav section."
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:276
+#: ../includes/theme-options/header.php:97
+#: ../includes/theme-options/single.php:280
+msgid "Icon"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:281
+#: ../includes/theme-options/header.php:102
+msgid "URL"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:286
+msgid "Background color"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:291
+msgid "Background hover color"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:296
+msgid "Icon color"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:301
+msgid "Icon hover color"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:317
+msgid "Border radius"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:324
+msgid "Border Size"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:330
+msgid "Border Style"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:333
+msgid "Solid"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:334
+msgid "Dotted"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:335
+msgid "Dashed"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:336
+msgid "Double"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:337
+msgid "Groove"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:338
+msgid "Ridge"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:339
+msgid "Inset"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:340
+msgid "Outset"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:346
+msgid "Border Color"
+msgstr ""
+
+#: ../includes/theme-options/footer-nav.php:447
+msgid "Set font size of footer nav social icons in px."
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:9
+#: ../includes/theme-options/sidebars-styling.php:9
+#: ../includes/theme-options/social-styling.php:9
+#: ../includes/theme-options/styling.php:10
+msgid "Styling"
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:10
+msgid "From here, you can control the styling of footer section."
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:17
+msgid "Top Footer Margin"
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:18
+msgid "Top Footer margin."
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:37
+msgid "Top Footer Padding"
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:38
+msgid "Top Footer padding."
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:58
+msgid "Footer Background"
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:59
+msgid "Set footer background color, pattern and image from here."
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:100
+msgid "Copyrights Styling"
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:106
+msgid "Copyrights Background"
+msgstr ""
+
+#: ../includes/theme-options/footer-styling.php:107
+msgid "Set copyrights background color, pattern and image from here."
+msgstr ""
+
+#: ../includes/theme-options/footer.php:11
+#: ../includes/theme-options/footer.php:16
+msgid "From here, you can control the elements of footer section."
+msgstr ""
+
+#: ../includes/theme-options/footer.php:32
+msgid "Enable or disable footer with this option."
+msgstr ""
+
+#: ../includes/theme-options/footer.php:40
+msgid "Footer Layout"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:41
+msgid "Choose the number of widget areas in the <strong>footer</strong>"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:43
+msgid "1 Widget"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:44
+msgid "2 Widgets"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:45
+msgid "3 Widgets"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:46
+msgid "4 Widgets"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:62
+msgid "Footer Sections Position"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:63
+msgid "Choose position of Footer Sections."
+msgstr ""
+
+#: ../includes/theme-options/footer.php:65
+msgid "Above"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:67
+msgid "Below"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:90
+msgid "Copyrights Text"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:91
+msgid ""
+"You can change or remove our link from footer and use your own custom text."
+msgstr ""
+
+#: ../includes/theme-options/footer.php:91
+#, php-format
+msgid ""
+"(You can also use your affiliate link to <strong>earn 55% of sales</strong>. "
+"Ex: <a href=\"https://mythemeshop.com/go/aff/aff\" target=\"_blank\">https://"
+"mythemeshop.com/?ref=username</a>)"
+msgstr ""
+
+#: ../includes/theme-options/footer.php:93
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: ../includes/theme-options/general.php:11
+msgid ""
+"This tab contains common setting options which will be applied to the whole "
+"theme"
+msgstr ""
+
+#: ../includes/theme-options/general.php:30
+msgid "Site Logo"
+msgstr ""
+
+#: ../includes/theme-options/general.php:31
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: ../includes/theme-options/general.php:38
+msgid "Favicon"
+msgstr ""
+
+#: ../includes/theme-options/general.php:40
+#, php-format
+msgid "Upload a %s image that will represent your website's favicon."
+msgstr ""
+
+#: ../includes/theme-options/general.php:46
+msgid "Touch icon"
+msgstr ""
+
+#: ../includes/theme-options/general.php:48
+#, php-format
+msgid ""
+"Upload a %s image that will represent your website's touch icon for iOS 2.0+ "
+"and Android 2.1+ devices."
+msgstr ""
+
+#: ../includes/theme-options/general.php:55
+msgid "Metro icon"
+msgstr ""
+
+#: ../includes/theme-options/general.php:57
+#, php-format
+msgid ""
+"Upload a %s image that will represent your website's IE 10 Metro tile icon."
+msgstr ""
+
+#: ../includes/theme-options/general.php:64
+#: ../includes/widgets/widget-tweets.php:112
+msgid "Twitter Username"
+msgstr ""
+
+#: ../includes/theme-options/general.php:65
+msgid "Enter your Username here."
+msgstr ""
+
+#: ../includes/theme-options/general.php:70
+msgid "FeedBurner URL"
+msgstr ""
+
+#: ../includes/theme-options/general.php:72
+#, php-format
+msgid ""
+"Enter your FeedBurner's URL here, ex: %s and your main feed (http://example."
+"com/feed) will get redirected to the FeedBurner ID entered here.)"
+msgstr ""
+
+#: ../includes/theme-options/general.php:79
+msgid "AJAX Quick search"
+msgstr ""
+
+#: ../includes/theme-options/general.php:80
+msgid ""
+"Enable or disable search results appearing instantly below the search form"
+msgstr ""
+
+#: ../includes/theme-options/general.php:87
+msgid "Responsiveness"
+msgstr ""
+
+#: ../includes/theme-options/general.php:88
+msgid ""
+"MyThemeShop themes are responsive, which means they adapt to tablet and "
+"mobile devices, ensuring that your content is always displayed beautifully "
+"no matter what device visitors are using. Enable or disable responsiveness "
+"using this option."
+msgstr ""
+
+#: ../includes/theme-options/general.php:95
+msgid "No. of Products"
+msgstr ""
+
+#: ../includes/theme-options/general.php:96
+msgid ""
+"Enter the total number of products which you want to show on shop page "
+"(WooCommerce plugin must be enabled)."
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:9
+msgid "Topbar"
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:10
+msgid "From here, you can control the topbar of header section."
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:18
+msgid "Show Primary Menu"
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:20
+#: ../includes/theme-options/header.php:38
+#, php-format
+msgid "Use this button to enable %s."
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:20
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:27
+msgid "Top Bar Background"
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:28
+#: ../includes/theme-options/header.php:327
+#: ../includes/theme-options/header.php:369
+#: ../includes/theme-options/home-posts.php:233
+#: ../includes/theme-options/home-posts.php:860
+#: ../includes/theme-options/sidebars-styling.php:25
+#: ../includes/theme-options/sidebars-styling.php:95
+#: ../includes/theme-options/single-related.php:19
+#: ../includes/theme-options/single-related.php:300
+#: ../includes/theme-options/single-styling.php:38
+#: ../includes/theme-options/social-styling.php:70
+#: ../includes/theme-options/styling.php:40
+msgid "Set background color, pattern and image from here."
+msgstr ""
+
+#: ../includes/theme-options/header-top-bar.php:69
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../includes/theme-options/header.php:10
+msgid "Header"
+msgstr ""
+
+#: ../includes/theme-options/header.php:15
+msgid "From here, you can control the elements of header section."
+msgstr ""
+
+#: ../includes/theme-options/header.php:23
+msgid "Header Styling"
+msgstr ""
+
+#: ../includes/theme-options/header.php:24
+msgid "Choose the <strong>Header design</strong> for your site."
+msgstr ""
+
+#: ../includes/theme-options/header.php:36
+#: ../includes/theme-options/header.php:38
+msgid "Floating Navigation Menu"
+msgstr ""
+
+#: ../includes/theme-options/header.php:45
+msgid "Header Margin"
+msgstr ""
+
+#: ../includes/theme-options/header.php:46
+msgid "Set header margin from here."
+msgstr ""
+
+#: ../includes/theme-options/header.php:57
+msgid "Header Padding"
+msgstr ""
+
+#: ../includes/theme-options/header.php:58
+msgid "Set header padding from here."
+msgstr ""
+
+#: ../includes/theme-options/header.php:71
+#: ../includes/theme-options/header.php:138
+#: ../includes/theme-options/sidebars-styling.php:82
+msgid "Select border."
+msgstr ""
+
+#: ../includes/theme-options/header.php:77
+msgid "Show header social icons"
+msgstr ""
+
+#: ../includes/theme-options/header.php:78
+msgid "Use this button to show or hide Header Social Icons."
+msgstr ""
+
+#: ../includes/theme-options/header.php:84
+msgid "Header Social Icons"
+msgstr ""
+
+#: ../includes/theme-options/header.php:85
+msgid "Add Social Media icons in header."
+msgstr ""
+
+#: ../includes/theme-options/header.php:87
+msgid "Header Icons"
+msgstr ""
+
+#: ../includes/theme-options/header.php:107
+msgid "Header icon background color"
+msgstr ""
+
+#: ../includes/theme-options/header.php:112
+msgid "Header icon background hover color"
+msgstr ""
+
+#: ../includes/theme-options/header.php:117
+msgid "Header icon color"
+msgstr ""
+
+#: ../includes/theme-options/header.php:122
+msgid "Header icon hover color"
+msgstr ""
+
+#: ../includes/theme-options/header.php:127
+msgid "Header icon Margin"
+msgstr ""
+
+#: ../includes/theme-options/header.php:132
+msgid "Header icon Padding"
+msgstr ""
+
+#: ../includes/theme-options/header.php:144
+msgid "Header icon border radius"
+msgstr ""
+
+#: ../includes/theme-options/header.php:284
+msgid "Show Header Search Form"
+msgstr ""
+
+#: ../includes/theme-options/header.php:285
+msgid ""
+"Use this button to Show or Hide the <strong>Header Search Form</strong> "
+"completely."
+msgstr ""
+
+#: ../includes/theme-options/header.php:301
+msgid "Search Position from Top"
+msgstr ""
+
+#: ../includes/theme-options/header.php:302
+msgid "Enter search position from top in px."
+msgstr ""
+
+#: ../includes/theme-options/header.php:318
+msgid "Show Logo"
+msgstr ""
+
+#: ../includes/theme-options/header.php:319
+msgid "Use this button to Show or Hide the <strong>Logo</strong> completely."
+msgstr ""
+
+#: ../includes/theme-options/header.php:326
+msgid "Header Background"
+msgstr ""
+
+#: ../includes/theme-options/header.php:368
+msgid "Main Navigation Background"
+msgstr ""
+
+#: ../includes/theme-options/header.php:401
+msgid "Dropdown Text Color"
+msgstr ""
+
+#: ../includes/theme-options/header.php:402
+#: ../includes/theme-options/header.php:409
+msgid "Select dropdown text color for main navigation from here."
+msgstr ""
+
+#: ../includes/theme-options/header.php:408
+msgid "Dropdown Text Hover Color"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:9
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:10
+msgid "From here, you can control the elements of homepage pagination."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:18
+msgid "Pagination Type"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:19
+msgid "Select pagination type."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:21
+msgid "Default (Next / Previous)"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:22
+msgid "Numbered (1 2 3 4...)"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:23
+msgid "AJAX (Load More Button)"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:24
+msgid "AJAX (Auto Infinite Scroll)"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:32
+#: ../includes/theme-options/home-posts.php:203
+msgid "Section Title Alignment"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:33
+#: ../includes/theme-options/home-posts.php:204
+msgid "Choose the section title alignment"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:38
+#: ../includes/theme-options/home-posts.php:209
+#: ../includes/theme-options/single.php:29
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:54
+msgid "Pagination background color"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:55
+msgid "Select pagination background color."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:61
+msgid "Pagination background hover color"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:62
+msgid "Select pagination background hover color."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:68
+msgid "Pagination color"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:69
+msgid "Select pagination color."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:75
+msgid "Pagination hover color"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:76
+msgid "Select pagination hover color."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:82
+msgid "Pagination Margin"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:83
+msgid "Update pagination margin from here."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:94
+msgid "Pagination Padding"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:95
+msgid "Update pagination padding from here."
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:107
+msgid "Pagination border radius"
+msgstr ""
+
+#: ../includes/theme-options/home-pagination.php:108
+msgid "Update pagination border radius in px."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:22
+#, php-format
+msgid "From here, you can control the elements of %s"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:32
+msgid "Ad Code"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:33
+msgid "Paste your Adsense, BSA or other ad code here to show ads."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:40
+msgid "Partners Items"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:41
+msgid "Partner Item"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:52
+msgid "Upload or select an image for partner. Recommended Size(190X70px)"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:58
+msgid "Insert a link URL of partner"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:69
+msgid "Category items"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:70
+msgid "Add category Item from here"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:71
+msgid "Category item"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:81
+#: ../includes/theme-options/home-posts.php:492
+#: ../includes/theme-options/home.php:58
+#: ../includes/theme-options/single-related.php:177
+msgid "Category"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:82
+msgid "Select a category for this section"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:89
+msgid "Upload or select an image for category. Recommended Size(266x152px)"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:94
+msgid "Select overlay color for your category"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:101
+msgid "Select overlay hover color for your category"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:113
+#: ../includes/theme-options/single-related.php:69
+msgid "Grid"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:114
+msgid "Choose the number of grid"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:116
+msgid "Two"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:117
+msgid "Three"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:126
+msgid "Select Category2"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:127
+msgid "Select category for Grid 2."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:134
+msgid "Select Category3"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:135
+msgid "Select category for Grid 3."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:150
+#: ../includes/theme-options/home-posts.php:164
+msgid "Section Title"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:156
+msgid "Show/Hide Title"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:157
+msgid "Use this button to show or hide title of post container."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:165
+msgid "Partners section title."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:179
+msgid "Partners Title Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:225
+msgid "Title Border Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:232
+msgid "Post Title Background Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:274
+msgid "Post Title Margin"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:275
+msgid "Set section title margin from here."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:295
+msgid "Post Title Padding"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:296
+msgid "Set section title padding from here."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:332
+#: ../includes/theme-options/single-styling.php:88
+msgid "Section Title Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:355
+#: ../includes/theme-options/home-posts.php:486
+#: ../includes/theme-options/single-related.php:172
+msgid "Post Meta Info"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:361
+#, php-format
+msgid "%s Meta Info"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:362
+#, php-format
+msgid "Organize how you want the post meta info to appear on %s"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:366
+#: ../includes/theme-options/home-posts.php:489
+#: ../includes/theme-options/single-related.php:175
+#: ../includes/theme-options/single.php:152
+#: ../includes/widgets/widget-aboutme.php:52
+msgid "Author Name"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:371
+#: ../includes/theme-options/home-posts.php:400
+#: ../includes/theme-options/home-posts.php:430
+#: ../includes/theme-options/home-posts.php:458
+#: ../includes/theme-options/single.php:157
+#: ../includes/theme-options/single.php:186
+#: ../includes/theme-options/single.php:214
+#: ../includes/theme-options/single.php:242
+msgid "Select Icon"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:378
+#: ../includes/theme-options/home-posts.php:406
+#: ../includes/theme-options/home-posts.php:436
+#: ../includes/theme-options/home-posts.php:464
+#: ../includes/theme-options/single.php:164
+#: ../includes/theme-options/single.php:193
+#: ../includes/theme-options/single.php:221
+#: ../includes/theme-options/single.php:249
+msgid "Divider"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:379
+#: ../includes/theme-options/home-posts.php:407
+#: ../includes/theme-options/home-posts.php:437
+#: ../includes/theme-options/home-posts.php:465
+#: ../includes/theme-options/single.php:165
+msgid "Use any divider, ex: \"-\" \"/\" \"|\" \".\" \">\""
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:395
+#: ../includes/theme-options/single.php:181
+msgid "Date"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:425
+#: ../includes/theme-options/single.php:118
+#: ../includes/theme-options/single.php:209
+msgid "Categories"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:453
+#: ../includes/theme-options/single.php:237
+msgid "Comment Count"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:487
+#: ../includes/theme-options/single-related.php:173
+msgid "Show or hide post meta info."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:490
+#: ../includes/theme-options/single-related.php:178
+msgid "Comments"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:491
+#: ../includes/theme-options/single-related.php:176
+msgid "Time/Date"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:504
+msgid "Category Background Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:511
+msgid "Comment Background Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:518
+msgid "Big Post Background Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:526
+#: ../includes/theme-options/single-subscribe.php:240
+#: ../includes/theme-options/single-subscribe.php:338
+#: ../includes/widgets/widget-social.php:481
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:534
+msgid "Post Meta Info margin."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:546
+msgid "Post Meta Info padding."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:557
+msgid "Big Post Meta Info Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:573
+msgid "Section Size"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:574
+msgid "Select the size of subscribe widget."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:576
+msgid "Full"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:577
+msgid "Container"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:585
+#: ../includes/theme-options/single.php:56
+msgid "Alignment"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:586
+msgid "Alignment of subscribe widget content"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:598
+msgid "Title Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:612
+msgid "Input Fields Background Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:618
+msgid "Input Field Size"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:619
+msgid "Select the size of input fields."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:621
+msgid "Large"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:622
+msgid "Small"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:630
+msgid "Input Fields Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:644
+msgid "Submit Button Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:658
+msgid "Text Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:672
+msgid "Small Text Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:686
+msgid "Post Meta Info Typography"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:701
+msgid "Widget Settings"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:706
+msgid "Enable/Disable Widget"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:707
+msgid "Use this button to show or hide Widget."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:715
+msgid "Widget Position from Top"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:716
+msgid "Enter widget position from Top in px"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:724
+#: ../includes/theme-options/single-subscribe.php:170
+msgid "Subscribe Title Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:739
+#: ../includes/theme-options/single-subscribe.php:205
+msgid "Subscribe Text Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:754
+#: ../includes/theme-options/single-subscribe.php:303
+msgid "Subscribe Input Fields Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:768
+#: ../includes/theme-options/single-subscribe.php:404
+msgid "Subscribe Submit Button Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:783
+#: ../includes/theme-options/single-subscribe.php:439
+msgid "Subscribe Small Text Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:799
+msgid "Position from Top"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:800
+msgid "Set widget position from top in px."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:809
+#: ../includes/theme-options/home-posts.php:921
+msgid "Post padding."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:822
+msgid "Post Image settings"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:828
+#: ../includes/theme-options/single-related.php:123
+msgid "Image Position from Top"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:829
+#: ../includes/theme-options/single-related.php:124
+msgid "Enter image position from top in px."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:837
+msgid "Post Container"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:843
+msgid "Enable/Disable Excerpt"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:844
+msgid "Use this button to show or hide excerpt."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:851
+msgid "Enable/Disable Read More"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:852
+msgid "Use this button to show or hide readmore."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:859
+msgid "Post Background Color"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:894
+msgid "Box Shadow"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:895
+msgid "Use this button to show or hide box shadow in post container."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:908
+msgid "Post margin."
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:932
+msgid "Big Post Title Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:948
+msgid "Post Title Font"
+msgstr ""
+
+#: ../includes/theme-options/home-posts.php:963
+msgid "Post Excerpt Font"
+msgstr ""
+
+#: ../includes/theme-options/home.php:11
+msgid "From here, you can control the elements of the homepage."
+msgstr ""
+
+#: ../includes/theme-options/home.php:19
+msgid "Homepage Sections"
+msgstr ""
+
+#: ../includes/theme-options/home.php:20
+msgid "Select categories appearing on the homepage."
+msgstr ""
+
+#: ../includes/theme-options/home.php:21
+msgid "Section"
+msgstr ""
+
+#: ../includes/theme-options/home.php:40
+msgid "HomePage Thumbnail Size"
+msgstr ""
+
+#: ../includes/theme-options/home.php:41
+msgid "Choose the <strong>featured thumbnail size</strong> for your site."
+msgstr ""
+
+#: ../includes/theme-options/home.php:59
+msgid "Select a category or the latest posts for this section"
+msgstr ""
+
+#: ../includes/theme-options/home.php:94
+msgid "Number of posts"
+msgstr ""
+
+#: ../includes/theme-options/home.php:96
+#, php-format
+msgid ""
+"Enter the number of posts to show in this section.<br/><strong>For Latest "
+"Posts</strong>, this setting will be ignored, and number set in <a href=\"%s"
+"\" target=\"_blank\">Settings&nbsp;&gt;&nbsp;Reading</a> will be used "
+"instead."
+msgstr ""
+
+#: ../includes/theme-options/home.php:136
+#: ../includes/theme-options/single-related.php:105
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../includes/theme-options/home.php:137
+msgid "Max lenght is 55 Words."
+msgstr ""
+
+#: ../includes/theme-options/performance.php:10
+msgid "Performance"
+msgstr ""
+
+#: ../includes/theme-options/performance.php:11
+msgid ""
+"This tab contains optimization options which can help make your site run "
+"faster."
+msgstr ""
+
+#: ../includes/theme-options/performance.php:19
+msgid "Async JavaScript"
+msgstr ""
+
+#: ../includes/theme-options/performance.php:20
+#, php-format
+msgid "Add %s attribute to script tags to improve page download speed."
+msgstr ""
+
+#: ../includes/theme-options/performance.php:27
+msgid "Remove ver parameters"
+msgstr ""
+
+#: ../includes/theme-options/performance.php:28
+#, php-format
+msgid ""
+"Remove %s parameter from CSS and JS file calls. It may improve speed in some "
+"browsers which do not cache files having the parameter."
+msgstr ""
+
+#: ../includes/theme-options/performance.php:35
+msgid "Disable Emojis"
+msgstr ""
+
+#: ../includes/theme-options/performance.php:36
+msgid "Disables the new WordPress emoji functionality."
+msgstr ""
+
+#: ../includes/theme-options/performance.php:43
+msgid "Prefetching"
+msgstr ""
+
+#: ../includes/theme-options/performance.php:44
+msgid ""
+"Enable or disable prefetching. If user is on homepage, then single page will "
+"load faster and if user is on single page, homepage will load faster in "
+"modern browsers."
+msgstr ""
+
+#: ../includes/theme-options/performance.php:53
+msgid "Optimize WooCommerce Scripts"
+msgstr ""
+
+#: ../includes/theme-options/performance.php:54
+msgid "Load WooCommerce scripts and styles only on WooCommerce pages."
+msgstr ""
+
+#: ../includes/theme-options/search.php:10
+#: ../includes/theme-options/sidebars.php:148 ../searchform.php:13
+#: ../sidebar.php:19
+msgid "Search"
+msgstr ""
+
+#: ../includes/theme-options/search.php:11
+msgid "Setting here apply to search pages."
+msgstr ""
+
+#: ../includes/theme-options/search.php:19
+msgid "Search Results Content"
+msgstr ""
+
+#: ../includes/theme-options/search.php:20
+msgid "Controls the type of content that displays in search results."
+msgstr ""
+
+#: ../includes/theme-options/search.php:22
+msgid "All Post Types and Pages"
+msgstr ""
+
+#: ../includes/theme-options/search.php:23
+msgid "All Post Types without Pages"
+msgstr ""
+
+#: ../includes/theme-options/search.php:24
+msgid "Only Pages"
+msgstr ""
+
+#: ../includes/theme-options/search.php:25
+msgid "Only Blog Posts"
+msgstr ""
+
+#: ../includes/theme-options/search.php:26
+msgid "Only WooCommerce Products"
+msgstr ""
+
+#: ../includes/theme-options/search.php:34
+msgid "Number of Search Results Per Page"
+msgstr ""
+
+#: ../includes/theme-options/search.php:35
+msgid "Controls the number of search results per page."
+msgstr ""
+
+#: ../includes/theme-options/search.php:44
+msgid "Search Form Position"
+msgstr ""
+
+#: ../includes/theme-options/search.php:45
+msgid "Controls the position of the search bar on the search results page."
+msgstr ""
+
+#: ../includes/theme-options/search.php:47
+msgid "Above Results"
+msgstr ""
+
+#: ../includes/theme-options/search.php:48
+msgid "Below Results"
+msgstr ""
+
+#: ../includes/theme-options/search.php:49
+msgid "Hide"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:10
+msgid "From here, you can control the styling of sidebars."
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:18
+msgid "Title Styling"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:24
+msgid "Sidebar Title Styling Background"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:57
+msgid "Sidebar Title Margin"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:58
+msgid "Set sidebar title margin from here."
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:69
+msgid "Sidebar Title Padding"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:70
+msgid "Set sidebar title padding from here."
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:88
+msgid "Sidebar Styling"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:94
+msgid "Sidebar Styling Background"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:127
+msgid "Sidebar Padding"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:128
+msgid "Set sidebar padding from here."
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:139
+msgid "Sidebar Box Shadow"
+msgstr ""
+
+#: ../includes/theme-options/sidebars-styling.php:140
+msgid "Set sidebar box shadow from here."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:11
+msgid ""
+"Now you have full control over the sidebars. Here you can manage sidebars "
+"and select one for each section of your site, or select a custom sidebar on "
+"a per-post basis in the post editor."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:19
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:20
+msgid ""
+"Add custom sidebars. <strong style=\"font-weight: 800;\">You need to save "
+"the changes to use the sidebars in the dropdowns below.</strong><br />You "
+"can add content to the sidebars in Appearance &gt; Widgets."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:30
+msgid "Example: Homepage Sidebar"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:35
+msgid "ID"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:36
+msgid ""
+"Enter a unique ID for the sidebar. Use only alphanumeric characters, "
+"underscores (_) and dashes (-), eg. \"sidebar-home\""
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:47
+msgid "Select a sidebar for the homepage."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:60
+msgid ""
+"Select a sidebar for the single posts. If a post has a custom sidebar set, "
+"it will override this."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:71
+msgid "Single Page"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:72
+msgid ""
+"Select a sidebar for the single pages. If a page has a custom sidebar set, "
+"it will override this."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:83
+msgid "Archive"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:84
+msgid ""
+"Select a sidebar for the archives. Specific archive sidebars will override "
+"this setting (see below)."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:96
+msgid "Category Archive"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:97
+msgid "Select a sidebar for the category archives."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:109
+msgid "Tag Archive"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:110
+msgid "Select a sidebar for the tag archives."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:122
+msgid "Date Archive"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:123
+msgid "Select a sidebar for the date archives."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:135
+msgid "Author Archive"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:136
+msgid "Select a sidebar for the author archives."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:149
+msgid "Select a sidebar for the search results."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:161
+msgid "404 Error"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:162
+msgid "Select a sidebar for the 404 Not found pages."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:174
+msgid "Shop Pages"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:175
+msgid ""
+"Select a sidebar for Shop main page and product archive pages (WooCommerce "
+"plugin must be enabled). Default is <strong>Shop Page Sidebar</strong>."
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:187
+msgid "Single Product"
+msgstr ""
+
+#: ../includes/theme-options/sidebars.php:188
+msgid ""
+"Select a sidebar for single products (WooCommerce plugin must be enabled). "
+"Default is <strong>Single Product Sidebar</strong>."
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:9
+#: ../includes/theme-options/single.php:127
+msgid "Author Box"
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:10
+msgid ""
+"From here, you can control the appearance and functionality of Author box in "
+"single posts page."
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:29
+msgid "Author box Settings"
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:34
+msgid "Author box Background"
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:35
+#: ../includes/theme-options/single-subscribe.php:39
+msgid "Set background color, pattern and image for subscribe box from here."
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:68
+msgid "Set Author box margin from here."
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:80
+msgid "Set Author box padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:93
+msgid "Author box border radius."
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:113
+msgid "Author Box Title Font"
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:128
+msgid "Author Box Name Font"
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:143
+msgid "Author Box Text Font"
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:159
+msgid "Author Image Settings"
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:165
+msgid "Set Author image margin from here."
+msgstr ""
+
+#: ../includes/theme-options/single-authorbox.php:178
+msgid "Author image border radius."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:10
+msgid ""
+"From here, you can control the appearance and functionality of related posts "
+"in single posts page."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:18
+#: ../includes/theme-options/single-related.php:299
+msgid "Related Posts Background"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:52
+msgid "Related Posts Layouts"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:53
+msgid "Choose the Related Posts layouts for your site."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:70
+msgid "Select the number of grid for Related Posts."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:72
+msgid "2"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:73
+msgid "3"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:74
+msgid "4"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:75
+msgid "5"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:76
+msgid "6"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:93
+msgid "Number of related posts"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:94
+msgid "Enter the number of posts to show in the related posts section."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:106
+msgid "Enter excerpt length for big post here."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:140
+msgid "Related Posts Ad"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:141
+msgid ""
+"Paste your Adsense, BSA or other ad code here to show ads in Related Posts "
+"Area."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:160
+msgid "Related Posts Position"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:161
+msgid "Choose the position for related posts, below content will be Full width"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:164
+#: ../includes/theme-options/social.php:43
+msgid "Below Content"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:192
+msgid "Set related posts margin from here."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:204
+msgid "Set related posts padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:216
+msgid "Big Related Posts Title"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:240
+msgid "Related Posts Excerpt"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:264
+#: ../includes/theme-options/single.php:107
+msgid "Related Posts Title"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:278
+msgid "Related Posts Meta Info"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:293
+msgid "Related Posts Articles"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:333
+msgid "Articles Padding"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:334
+msgid "Set related posts articles padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:346
+msgid "Articles Text Padding"
+msgstr ""
+
+#: ../includes/theme-options/single-related.php:347
+msgid "Set related posts articles text padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:9
+#: ../includes/theme-options/single-styling.php:103
+msgid "Single Styling"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:10
+#: ../includes/theme-options/single.php:10
+msgid ""
+"From here, you can control the appearance and functionality of your single "
+"posts page."
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:18
+msgid "Single Titles Styling"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:24
+msgid "Single Page Title Alignment"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:25
+msgid "Choose the single page title alignment"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:37
+msgid "Single Page Title Background Color"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:70
+msgid "Single Page Title Padding"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:71
+msgid "Set single page title padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:109
+#: ../includes/widgets/widget-social.php:75
+#: ../includes/widgets/widget-social.php:88
+#: ../includes/widgets/widget-social.php:101
+#: ../includes/widgets/widget-social.php:114
+#: ../includes/widgets/widget-social.php:127
+#: ../includes/widgets/widget-social.php:140
+#: ../includes/widgets/widget-social.php:153
+#: ../includes/widgets/widget-social.php:166
+#: ../includes/widgets/widget-social.php:179
+#: ../includes/widgets/widget-social.php:192
+#: ../includes/widgets/widget-social.php:205
+#: ../includes/widgets/widget-social.php:218
+#: ../includes/widgets/widget-social.php:231
+#: ../includes/widgets/widget-social.php:244
+#: ../includes/widgets/widget-social.php:257
+#: ../includes/widgets/widget-social.php:270
+#: ../includes/widgets/widget-social.php:283
+#: ../includes/widgets/widget-social.php:296
+#: ../includes/widgets/widget-social.php:309
+#: ../includes/widgets/widget-social.php:322
+#: ../includes/widgets/widget-social.php:335
+msgid "Background"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:110
+msgid ""
+"Set background color, pattern and image of Single, Page, Archive, Search, "
+"Category and 404 Page from here."
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:143
+msgid "Single Margin"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:144
+msgid "Set single post margin from here."
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:155
+msgid "Single Padding"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:156
+msgid "Set single post padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:167
+msgid "Single Box Shadow"
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:168
+msgid "Set single post box shadow from here."
+msgstr ""
+
+#: ../includes/theme-options/single-styling.php:180
+msgid "Single Meta Info Font"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:9
+#: ../includes/theme-options/single.php:131
+msgid "Subscribe Box"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:10
+msgid ""
+"From here, you can control the appearance and functionality of Subscribe box "
+"in single posts page."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:18
+msgid "Show Subscribe box"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:19
+msgid "Enable/Disable Subscribe box in the single post."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:25
+msgid "Subscribe box Settings"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:38
+msgid "Subscribe box Background"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:80
+msgid "Set Subscribe box margin from here."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:100
+msgid "Set Subscribe box padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:121
+msgid "Subscribe box border radius."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:157
+msgid "Subscribe box Title Settings"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:192
+msgid "Subscribe box Text Settings"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:227
+msgid "Subscribe box Input Settings"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:256
+msgid "Height"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:257
+msgid "Subscribe box input fields height."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:274
+msgid "Subscribe box input fields border radius."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:325
+msgid "Subscribe box Submit Settings"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:339
+msgid "Submit button background color"
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:355
+msgid "Subscribe box submit button border radius."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:385
+msgid "Set subscribe submit button padding from here."
+msgstr ""
+
+#: ../includes/theme-options/single-subscribe.php:426
+msgid "Subscribe box small text Settings"
+msgstr ""
+
+#: ../includes/theme-options/single.php:18
+msgid "Show Featured image"
+msgstr ""
+
+#: ../includes/theme-options/single.php:19
+msgid "Enable/Disable the Featured images in the single post."
+msgstr ""
+
+#: ../includes/theme-options/single.php:25
+msgid "Header Size"
+msgstr ""
+
+#: ../includes/theme-options/single.php:26
+msgid "Choose the featured image size"
+msgstr ""
+
+#: ../includes/theme-options/single.php:28
+msgid "Content Size"
+msgstr ""
+
+#: ../includes/theme-options/single.php:36
+msgid "Header Image Margin"
+msgstr ""
+
+#: ../includes/theme-options/single.php:37
+msgid "Set header image margin from here."
+msgstr ""
+
+#: ../includes/theme-options/single.php:57
+msgid "Choose the featured image text alignment"
+msgstr ""
+
+#: ../includes/theme-options/single.php:77
+msgid "Show Author Image"
+msgstr ""
+
+#: ../includes/theme-options/single.php:78
+msgid "Enable or disable author image with this option"
+msgstr ""
+
+#: ../includes/theme-options/single.php:93
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../includes/theme-options/single.php:94
+msgid "Customize the look of single posts"
+msgstr ""
+
+#: ../includes/theme-options/single.php:98
+msgid "Post Content"
+msgstr ""
+
+#: ../includes/theme-options/single.php:108
+msgid "Enter the title text to show in the related posts section."
+msgstr ""
+
+#: ../includes/theme-options/single.php:115
+msgid "Related Posts Taxonomy"
+msgstr ""
+
+#: ../includes/theme-options/single.php:121
+msgid "Related Posts based on tags or categories."
+msgstr ""
+
+#: ../includes/theme-options/single.php:147
+msgid "Single Meta Info"
+msgstr ""
+
+#: ../includes/theme-options/single.php:148
+msgid "Organize how you want the post meta info to appear on single page"
+msgstr ""
+
+#: ../includes/theme-options/single.php:272
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../includes/theme-options/single.php:273
+msgid ""
+"Breadcrumbs are a great way to make your site more user-friendly. You can "
+"enable them by checking this box."
+msgstr ""
+
+#: ../includes/theme-options/single.php:281
+msgid "Select divider icons from here."
+msgstr ""
+
+#: ../includes/theme-options/single.php:296
+msgid "Breadcrumbs Font"
+msgstr ""
+
+#: ../includes/theme-options/single.php:319
+msgid "Highlight Author Comment"
+msgstr ""
+
+#: ../includes/theme-options/single.php:320
+msgid "Use this button to highlight author comments."
+msgstr ""
+
+#: ../includes/theme-options/single.php:327
+msgid "Date in Comments"
+msgstr ""
+
+#: ../includes/theme-options/single.php:328
+msgid "Use this button to show the date for comments."
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:10
+msgid ""
+"From here, you can control the elements of social sharing buttons styling."
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:18
+msgid "Social Share Styling"
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:24
+msgid "Social Share Margin"
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:25
+msgid "Set social share buttons margin from here."
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:36
+msgid "Social Share Box Shadow"
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:37
+msgid "Set social share box shadow from here."
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:43
+msgid "Floating Social Share Position"
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:44
+msgid "Set floating social share button position from here."
+msgstr ""
+
+#: ../includes/theme-options/social-styling.php:69
+msgid "<strong>Floating</strong> Social Share Background"
+msgstr ""
+
+#: ../includes/theme-options/social.php:10
+msgid "Social Share"
+msgstr ""
+
+#: ../includes/theme-options/social.php:11
+msgid ""
+"Enable or disable social sharing buttons on single posts using these buttons."
+msgstr ""
+
+#: ../includes/theme-options/social.php:16
+msgid "From here, you can control the elements of social sharing buttons."
+msgstr ""
+
+#: ../includes/theme-options/social.php:24
+msgid "Social Sharing Buttons Layout"
+msgstr ""
+
+#: ../includes/theme-options/social.php:25
+msgid ""
+"Choose default <strong>social sharing buttons</strong> layout or modern "
+"<strong>social sharing buttons</strong> layout for your site. "
+msgstr ""
+
+#: ../includes/theme-options/social.php:40
+msgid "Social Sharing Buttons Position"
+msgstr ""
+
+#: ../includes/theme-options/social.php:42
+msgid "Above Content"
+msgstr ""
+
+#: ../includes/theme-options/social.php:44
+msgid "Floating"
+msgstr ""
+
+#: ../includes/theme-options/social.php:46
+msgid "Choose position for Social Sharing Buttons."
+msgstr ""
+
+#: ../includes/theme-options/social.php:54
+msgid "Social Sharing Buttons on Pages"
+msgstr ""
+
+#: ../includes/theme-options/social.php:59
+msgid "Enable the sharing buttons for pages too, not just posts."
+msgstr ""
+
+#: ../includes/theme-options/social.php:66
+msgid "Social Media Buttons"
+msgstr ""
+
+#: ../includes/theme-options/social.php:67
+msgid ""
+"Organize how you want the social sharing buttons to appear on single posts"
+msgstr ""
+
+#: ../includes/theme-options/social.php:70
+#: ../includes/theme-options/social.php:84
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/theme-options/social.php:71
+#: ../includes/theme-options/social.php:85
+msgid "Facebook Share"
+msgstr ""
+
+#: ../includes/theme-options/social.php:72
+#: ../includes/theme-options/social.php:86
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/theme-options/social.php:73
+#: ../includes/theme-options/social.php:87
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/theme-options/social.php:76
+#: ../includes/theme-options/social.php:90
+msgid "Facebook Like"
+msgstr ""
+
+#: ../includes/theme-options/social.php:77
+#: ../includes/theme-options/social.php:91
+msgid "LinkedIn"
+msgstr ""
+
+#: ../includes/theme-options/social.php:78
+#: ../includes/theme-options/social.php:92
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../includes/theme-options/styling.php:11
+msgid ""
+"Control the visual appearance of your theme, such as colors, layout and "
+"patterns, from here."
+msgstr ""
+
+#: ../includes/theme-options/styling.php:19
+msgid "Color Scheme"
+msgstr ""
+
+#: ../includes/theme-options/styling.php:27
+msgid "Layout Style"
+msgstr ""
+
+#: ../includes/theme-options/styling.php:28
+msgid ""
+"Choose the <strong>default sidebar position</strong> for your site. The "
+"position of the sidebar for individual posts can be set in the post editor."
+msgstr ""
+
+#: ../includes/theme-options/styling.php:39
+msgid "Site Background"
+msgstr ""
+
+#: ../includes/theme-options/styling.php:73
+msgid "Lightbox"
+msgstr ""
+
+#: ../includes/theme-options/styling.php:78
+msgid ""
+"A lightbox is a stylized pop-up that allows your visitors to view larger "
+"versions of images without leaving the current page. You can enable or "
+"disable the lightbox here."
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:20
+msgid ""
+"From here, you can control the fonts used on your site. You can choose from "
+"17 standard font sets, or from the Google Fonts Library containing 800+ "
+"fonts."
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:26
+msgid "Logo Font"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:41
+msgid "Secondary Navigation"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:57
+msgid "Archive Post Titles"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:72
+msgid "Single Post Title"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:87
+msgid "Content Font"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:103
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:118
+msgid "Sidebar Links"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:133
+msgid "Sidebar Font"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:149
+msgid "Footer Widget Title"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:166
+msgid "Footer Link"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:183
+msgid "Footer font"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:199
+msgid "Copyrights Section"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:216
+msgid "H1 Heading in Content"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:231
+msgid "H2 Heading in Content"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:246
+msgid "H3 Heading in Content"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:261
+msgid "H4 Heading in Content"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:276
+msgid "H5 Heading in Content"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:291
+msgid "H6 Heading in Content"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:306
+msgid "Character sets"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:307
+msgid ""
+"Choose the character sets you wish to include. Please note that not all sets "
+"are available for all fonts."
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:309
+msgid "Latin"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:310
+msgid "Latin Extended"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:311
+msgid "Cyrillic"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:312
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:313
+msgid "Greek"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:314
+msgid "Greek Extended"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:315
+msgid "Vietnamese"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:316
+msgid "Khmer"
+msgstr ""
+
+#: ../includes/theme-options/typography-collection.php:317
+msgid "Devanagari"
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:14
+msgid "Woocommerce"
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:15
+msgid "Setting here apply both for the archive and search pages."
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:24
+msgid "WooCommerce Number of Products per Page"
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:25
+msgid "Controls the number of products that display per page."
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:34
+msgid "WooCommerce Number of Product Columns"
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:35
+msgid "Controls the number of columns for the main shop and archive pages."
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:44
+msgid "WooCommerce Related/Up-Sell/Cross-Sell Product Number"
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:45
+msgid ""
+"Controls the number of products for the related and up-sell products on "
+"single posts and cross-sells on cart page."
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:54
+msgid "WooCommerce Related/Up-Sell/Cross-Sell Product Number of Columns"
+msgstr ""
+
+#: ../includes/theme-options/woocommerce.php:55
+msgid ""
+"Controls the number of columns for the related and up-sell products on "
+"single posts and cross-sells on cart page."
+msgstr ""
+
+#: ../includes/vendors/woocommerce/class-cyprus-woocommerce.php:126
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../includes/vendors/woocommerce/functions-cyprus-woocommerce.php:24
+msgid " items / "
+msgstr ""
+
+#: ../includes/vendors/wp-subscribe-pro/cyprus-wps.php:58
+msgid "Block Style"
+msgstr ""
+
+#: ../includes/vendors/wp-subscribe-pro/cyprus-wps.php:59
+msgid "Inline Style"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:14
+#, php-format
+msgid "%sAbout Me"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:15
+msgid "Show Author image, description with Social icons."
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:33
+msgid "About Me"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:47
+#: ../includes/widgets/widget-ad125.php:211
+#: ../includes/widgets/widget-ad300.php:128
+#: ../includes/widgets/widget-authorposts.php:56
+#: ../includes/widgets/widget-catposts.php:57
+#: ../includes/widgets/widget-contactinfo.php:41
+#: ../includes/widgets/widget-instagram.php:36
+#: ../includes/widgets/widget-popular.php:58
+#: ../includes/widgets/widget-postslider.php:33
+#: ../includes/widgets/widget-recentposts.php:56
+#: ../includes/widgets/widget-relatedposts.php:56
+#: ../includes/widgets/widget-social.php:469
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:57
+msgid "Image URL"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:59
+msgid "Recommended size: 150x150px"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:63
+msgid "Description"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:68
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:73
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:78
+msgid "Instagram URL"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:83
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:88
+msgid "G+ URL"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:93
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../includes/widgets/widget-aboutme.php:98
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:33
+msgid "A widget for 125 x 125 ad unit (max 6 ads)"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:44
+#, php-format
+msgid "%s125x125 Ads"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:191
+msgid "Our Sponsors"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:217
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:223
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:229
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:235
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:241
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:247
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:253
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:259
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:265
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:271
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:277
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:283
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad125.php:289
+msgid "Randomize ads order?"
+msgstr ""
+
+#: ../includes/widgets/widget-ad300.php:31
+msgid "A widget for 300 x 250 ad (Single banner)"
+msgstr ""
+
+#: ../includes/widgets/widget-ad300.php:42
+#, php-format
+msgid "%s300x250 Ad"
+msgstr ""
+
+#: ../includes/widgets/widget-ad300.php:134
+msgid "Ad image url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ad300.php:140
+msgid "Ad link url:"
+msgstr ""
+
+#: ../includes/widgets/widget-adcode.php:16
+#, php-format
+msgid "%sAdcode"
+msgstr ""
+
+#: ../includes/widgets/widget-adcode.php:18
+msgid "A widget for showing ad codes in the sidebar"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:14
+#, php-format
+msgid "%sAuthor Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:15
+msgid ""
+"Display other posts written by the author of the current post. Will appear "
+"on single posts only."
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:44
+msgid "Author Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:61
+#: ../includes/widgets/widget-catposts.php:79
+#: ../includes/widgets/widget-instagram.php:46
+#: ../includes/widgets/widget-popular.php:69
+#: ../includes/widgets/widget-postslider.php:49
+#: ../includes/widgets/widget-recentposts.php:61
+#: ../includes/widgets/widget-relatedposts.php:61
+msgid "Number of Posts to show"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:66
+#: ../includes/widgets/widget-catposts.php:84
+#: ../includes/widgets/widget-popular.php:74
+#: ../includes/widgets/widget-recentposts.php:66
+#: ../includes/widgets/widget-relatedposts.php:66
+msgid "Title Length:"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:74
+#: ../includes/widgets/widget-catposts.php:92
+#: ../includes/widgets/widget-popular.php:82
+#: ../includes/widgets/widget-recentposts.php:74
+#: ../includes/widgets/widget-relatedposts.php:74
+msgid "Show Thumbnails"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:79
+msgid "Posts layout: "
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:81
+#: ../includes/widgets/widget-catposts.php:99
+#: ../includes/widgets/widget-popular.php:89
+#: ../includes/widgets/widget-recentposts.php:81
+#: ../includes/widgets/widget-relatedposts.php:81
+msgid "Horizontal"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:82
+#: ../includes/widgets/widget-catposts.php:100
+#: ../includes/widgets/widget-popular.php:90
+#: ../includes/widgets/widget-recentposts.php:82
+#: ../includes/widgets/widget-relatedposts.php:82
+msgid "Vertical"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:87
+#: ../includes/widgets/widget-popular.php:95
+#: ../includes/widgets/widget-recentposts.php:87
+#: ../includes/widgets/widget-relatedposts.php:87
+msgid "Thumb Border Radius: "
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:94
+#: ../includes/widgets/widget-catposts.php:112
+#: ../includes/widgets/widget-popular.php:102
+#: ../includes/widgets/widget-recentposts.php:94
+#: ../includes/widgets/widget-relatedposts.php:94
+msgid "Show post date"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:101
+#: ../includes/widgets/widget-catposts.php:119
+#: ../includes/widgets/widget-popular.php:109
+#: ../includes/widgets/widget-recentposts.php:101
+#: ../includes/widgets/widget-relatedposts.php:101
+msgid "Show number of comments"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:108
+#: ../includes/widgets/widget-catposts.php:126
+#: ../includes/widgets/widget-popular.php:116
+#: ../includes/widgets/widget-recentposts.php:108
+#: ../includes/widgets/widget-relatedposts.php:108
+msgid "Show excerpt"
+msgstr ""
+
+#: ../includes/widgets/widget-authorposts.php:113
+#: ../includes/widgets/widget-catposts.php:131
+#: ../includes/widgets/widget-popular.php:121
+#: ../includes/widgets/widget-recentposts.php:113
+#: ../includes/widgets/widget-relatedposts.php:113
+msgid "Excerpt Length:"
+msgstr ""
+
+#: ../includes/widgets/widget-catposts.php:14
+#, php-format
+msgid "%sCategory Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-catposts.php:15
+msgid "Display the most recent posts from a single category"
+msgstr ""
+
+#: ../includes/widgets/widget-catposts.php:44
+msgid "Featured Category"
+msgstr ""
+
+#: ../includes/widgets/widget-catposts.php:61
+#: ../includes/widgets/widget-postslider.php:37
+msgid "Category:"
+msgstr ""
+
+#: ../includes/widgets/widget-catposts.php:97
+#: ../includes/widgets/widget-instagram.php:51
+#: ../includes/widgets/widget-popular.php:87
+#: ../includes/widgets/widget-recentposts.php:79
+#: ../includes/widgets/widget-relatedposts.php:79
+msgid "Posts layout:"
+msgstr ""
+
+#: ../includes/widgets/widget-catposts.php:105
+msgid "Thumb Border Radius:"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:15
+msgid "A widget for contact info"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:22
+#, php-format
+msgid "%sContact Info"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:45
+msgid "Address:"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:49
+#: ../includes/widgets/widget-contactinfo.php:112
+msgid "Phone:"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:53
+#: ../includes/widgets/widget-contactinfo.php:116
+msgid "Mobile:"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:61
+msgid "Email Link Text:"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:65
+msgid "Website URL (with HTTP):"
+msgstr ""
+
+#: ../includes/widgets/widget-contactinfo.php:69
+msgid "Website URL Text:"
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:20
+msgid "Add Facebook Like Box."
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:24
+#, php-format
+msgid "%sFB Like Box"
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:81
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:90
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:95
+msgid "Width"
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:101
+msgid "Show faces"
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:106
+msgid "Show stream"
+msgstr ""
+
+#: ../includes/widgets/widget-fblikebox.php:111
+msgid "Show facebook header"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:14
+#, php-format
+msgid "%sInstagram Feeds"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:15
+msgid "Show Instagram Feeds with image and URL."
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:31
+msgid "two-grid"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:32
+msgid "Follow me on Instagram"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:41
+msgid "Instagram User Name:"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:53
+msgid "One Column"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:54
+msgid "Two Column"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:55
+msgid "Three Column"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:60
+msgid "Follow Text:"
+msgstr ""
+
+#: ../includes/widgets/widget-instagram.php:65
+msgid "Follow URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:14
+#, php-format
+msgid "%sPopular Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:15
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:45
+msgid "Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-popular.php:63
+msgid "Popular limit (days):"
+msgstr ""
+
+#: ../includes/widgets/widget-postslider.php:15
+#, php-format
+msgid "%sPost Slider"
+msgstr ""
+
+#: ../includes/widgets/widget-postslider.php:16
+msgid "Display posts from multiple categories in an animated slider."
+msgstr ""
+
+#: ../includes/widgets/widget-postslider.php:22
+msgid "Featured Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-postslider.php:54
+msgid "Navigaton type:"
+msgstr ""
+
+#: ../includes/widgets/widget-postslider.php:56
+msgid "Bulleted"
+msgstr ""
+
+#: ../includes/widgets/widget-postslider.php:57
+msgid "Arrows"
+msgstr ""
+
+#: ../includes/widgets/widget-postslider.php:64
+msgid "Show Title"
+msgstr ""
+
+#: ../includes/widgets/widget-recentposts.php:14
+#, php-format
+msgid "%sRecent Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-recentposts.php:15
+msgid "Display the most recent posts from all categories"
+msgstr ""
+
+#: ../includes/widgets/widget-recentposts.php:44
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-relatedposts.php:14
+#, php-format
+msgid "%sRelated Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-relatedposts.php:15
+msgid ""
+"Display the related posts from current post's categories. Will appear on "
+"single posts only."
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:70
+msgid "Facebook URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:71
+#: ../includes/widgets/widget-social.php:84
+#: ../includes/widgets/widget-social.php:97
+#: ../includes/widgets/widget-social.php:110
+#: ../includes/widgets/widget-social.php:123
+#: ../includes/widgets/widget-social.php:136
+#: ../includes/widgets/widget-social.php:149
+#: ../includes/widgets/widget-social.php:162
+#: ../includes/widgets/widget-social.php:175
+#: ../includes/widgets/widget-social.php:188
+#: ../includes/widgets/widget-social.php:201
+#: ../includes/widgets/widget-social.php:214
+#: ../includes/widgets/widget-social.php:227
+#: ../includes/widgets/widget-social.php:240
+#: ../includes/widgets/widget-social.php:253
+#: ../includes/widgets/widget-social.php:266
+#: ../includes/widgets/widget-social.php:279
+#: ../includes/widgets/widget-social.php:292
+#: ../includes/widgets/widget-social.php:305
+#: ../includes/widgets/widget-social.php:318
+#: ../includes/widgets/widget-social.php:331
+msgid "Styling Options"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:73
+#: ../includes/widgets/widget-social.php:86
+#: ../includes/widgets/widget-social.php:99
+#: ../includes/widgets/widget-social.php:112
+#: ../includes/widgets/widget-social.php:125
+#: ../includes/widgets/widget-social.php:138
+#: ../includes/widgets/widget-social.php:151
+#: ../includes/widgets/widget-social.php:164
+#: ../includes/widgets/widget-social.php:177
+#: ../includes/widgets/widget-social.php:190
+#: ../includes/widgets/widget-social.php:203
+#: ../includes/widgets/widget-social.php:216
+#: ../includes/widgets/widget-social.php:229
+#: ../includes/widgets/widget-social.php:242
+#: ../includes/widgets/widget-social.php:255
+#: ../includes/widgets/widget-social.php:268
+#: ../includes/widgets/widget-social.php:281
+#: ../includes/widgets/widget-social.php:294
+#: ../includes/widgets/widget-social.php:307
+#: ../includes/widgets/widget-social.php:320
+#: ../includes/widgets/widget-social.php:333
+msgid "Color"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:77
+#: ../includes/widgets/widget-social.php:90
+#: ../includes/widgets/widget-social.php:103
+#: ../includes/widgets/widget-social.php:116
+#: ../includes/widgets/widget-social.php:129
+#: ../includes/widgets/widget-social.php:142
+#: ../includes/widgets/widget-social.php:155
+#: ../includes/widgets/widget-social.php:168
+#: ../includes/widgets/widget-social.php:181
+#: ../includes/widgets/widget-social.php:194
+#: ../includes/widgets/widget-social.php:207
+#: ../includes/widgets/widget-social.php:220
+#: ../includes/widgets/widget-social.php:233
+#: ../includes/widgets/widget-social.php:246
+#: ../includes/widgets/widget-social.php:259
+#: ../includes/widgets/widget-social.php:272
+#: ../includes/widgets/widget-social.php:285
+#: ../includes/widgets/widget-social.php:298
+#: ../includes/widgets/widget-social.php:311
+#: ../includes/widgets/widget-social.php:324
+#: ../includes/widgets/widget-social.php:337
+msgid "Hover Color"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:79
+#: ../includes/widgets/widget-social.php:92
+#: ../includes/widgets/widget-social.php:105
+#: ../includes/widgets/widget-social.php:118
+#: ../includes/widgets/widget-social.php:131
+#: ../includes/widgets/widget-social.php:144
+#: ../includes/widgets/widget-social.php:157
+#: ../includes/widgets/widget-social.php:170
+#: ../includes/widgets/widget-social.php:183
+#: ../includes/widgets/widget-social.php:196
+#: ../includes/widgets/widget-social.php:209
+#: ../includes/widgets/widget-social.php:222
+#: ../includes/widgets/widget-social.php:235
+#: ../includes/widgets/widget-social.php:248
+#: ../includes/widgets/widget-social.php:261
+#: ../includes/widgets/widget-social.php:274
+#: ../includes/widgets/widget-social.php:287
+#: ../includes/widgets/widget-social.php:300
+#: ../includes/widgets/widget-social.php:313
+#: ../includes/widgets/widget-social.php:326
+#: ../includes/widgets/widget-social.php:339
+msgid "Hover Background"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:83
+msgid "Behance URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:96
+msgid "Flickr URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:109
+msgid "Google+ URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:122
+msgid "Pinterest URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:135
+msgid "Instagram URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:148
+msgid "Dribbble URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:161
+msgid "Linkedin URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:174
+msgid "Soundcloud URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:187
+msgid "Twitter URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:200
+msgid "Vimeo URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:213
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:226
+msgid "Tumblr URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:239
+msgid "GitHub URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:252
+msgid "YouTube URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:265
+msgid "FourSquare URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:278
+msgid "Reddit URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:291
+msgid "Dropbox URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:304
+msgid "Skype URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:317
+msgid "Email URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:330
+msgid "RSS URI"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:346
+msgid "Show profile icons."
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:355
+#, php-format
+msgid "%sSocial Profile Icons"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:471
+msgid "Normal State"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:524
+msgid "Open links in new window?"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:15
+#, php-format
+msgid "%sLatest Tweets"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:16
+msgid "A widget for showing latest tweets in sidebar"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:43
+msgid "Couldn't retrieve tweets! Wrong username?"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:111
+msgid "API Key"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:111
+msgid "API Secret"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:111
+msgid "Access Token"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:112
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:112
+msgid "Cache Tweets in every"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:113
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:135
+msgid "right now"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:136
+#, php-format
+msgid "%s seconds ago"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:137
+msgid "about 1 minute ago"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:138
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:139
+msgid "about 1 hour ago"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:140
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:141
+msgid "yesterday"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:142
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: ../includes/widgets/widget-tweets.php:143
+msgid "over a year ago"
+msgstr ""
+
+#: ../search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:29
+msgid "Nothing Found"
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Search the site"
+msgstr ""
+
+#: ../sidebar.php:24
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:31
+msgid "Meta"
+msgstr ""
+
+#: ../template-parts/header/header-2.php:50
+#: ../template-parts/header/header-3.php:62
+#: ../template-parts/header/header-default.php:58
+msgid "Menu"
+msgstr ""
+
+#: ../template-parts/no-results.php:3
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or use "
+"the search form."
+msgstr ""

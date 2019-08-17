@@ -1,0 +1,8 @@
+.kc-params-popup .kc-param-inline,
+.kc-params-popup .button-inline {
+    display: inline-block !important;
+}
+
+.kc-params-popup select.kc-param-inline {
+    width: 70%;
+}

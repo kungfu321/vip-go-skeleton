@@ -1,0 +1,2 @@
+
+2019-8-15 20:49:19 - filter:popmake_get_the_popup_data_attr is <strong>deprecated</strong> since version 1.7.0! Use filter:pum_popup_data_attr instead.

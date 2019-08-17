@@ -1,0 +1,17 @@
+.ace-wrapper {
+    position: static;
+
+	width: 75%;
+
+	.ace_editor {
+	    height: 200px;
+
+	    border-radius: 3px;
+
+		border: 1px solid #dedede;
+	}
+
+	.ace_gutter {
+	    z-index: 1 !important;
+	}
+}

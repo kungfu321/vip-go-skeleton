@@ -1,0 +1,24 @@
+.typography-collections {
+	.typography-controls {
+	    margin-top: 30px;
+	}
+	.collection-template {
+	    display: none;
+	}
+}
+
+.typography-remove-collection {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+    padding: 2px 6px 3px;
+
+    color: #fff;
+    border: 0;
+    border-radius: 3px;
+    background: #d33;
+	outline: 0;
+	cursor: pointer;
+	z-index: 111;
+}

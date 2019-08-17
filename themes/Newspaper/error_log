@@ -1,0 +1,4 @@
+[12-Aug-2019 19:03:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/zencocom/public_html/wp-content/themes/Newspaper/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/zencocom/public_html/wp-content/themes/Newspaper/index.php on line 1

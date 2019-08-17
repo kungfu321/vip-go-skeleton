@@ -1,0 +1,13 @@
+// main: ../cyprus-mycomposer.scss
+
+.kc-params-popup {
+
+	.kc-param-inline,
+	.button-inline {
+		display: inline-block !important;
+	}
+
+	select.kc-param-inline {
+		width: 70%;
+	}
+}

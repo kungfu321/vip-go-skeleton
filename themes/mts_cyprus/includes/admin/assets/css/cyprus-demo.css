@@ -1,0 +1,119 @@
+/* compileExpanded: ../css/$1.css*/
+.demo-list {
+  overflow: hidden;
+  margin-top: 30px;
+}
+
+.demo-list--item {
+  float: left;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 25%;
+  margin-left: -10px;
+  margin-right: 10px;
+}
+
+.demo-list--item.highlighted .demo-list--item-wrapper {
+  border: 1px solid #007cb2;
+  -webkit-box-shadow: 0 0px 2px 0px #007cb2;
+  box-shadow: 0 0px 2px 0px #007cb2;
+}
+
+.demo-list--item-wrapper {
+  margin: 10px;
+  border: 1px solid #dedede;
+  -webkit-box-shadow: 0 1px 1px -1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px -1px rgba(0, 0, 0, 0.1);
+}
+
+.demo-list--item img {
+  display: block;
+  max-width: 100%;
+  cursor: pointer;
+  -webkit-transition: opacity .2s ease-in-out 0s, -webkit-transform .2s ease-in-out 0s;
+  transition: opacity .2s ease-in-out 0s, -webkit-transform .2s ease-in-out 0s;
+  transition: opacity .2s ease-in-out 0s, transform .2s ease-in-out 0s;
+  transition: opacity .2s ease-in-out 0s, transform .2s ease-in-out 0s, -webkit-transform .2s ease-in-out 0s;
+}
+
+.demo-list--item-screenshot {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  display: block;
+}
+
+.demo-list--item-screenshot:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.demo-list--item h3 {
+  max-width: 100%;
+  margin: 0;
+  padding: 10px;
+  background: #ebebeb;
+}
+
+.demo-list--item-actions {
+  max-width: 100%;
+  margin: 0;
+  padding: 10px;
+  background: #ebebeb;
+}
+
+.demo-list--item:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.demo-list .button-primary .dashicons {
+  margin-top: 4px;
+  width: 12px;
+}
+
+.demo-importer-content-list {
+  max-width: 800px;
+  margin: 10px 0 20px 0;
+  padding: 20px;
+  border: 1px solid #dedede;
+  background: #fff;
+  -webkit-box-shadow: 0 1px 1px -1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px -1px rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+.demo-importer-content-list h4 {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+
+.demo-importer-content-list h5 {
+  margin: 0 0 4px;
+  font-size: 13px;
+  line-height: 2;
+}
+
+.demo-importer-content-list ul,
+.demo-importer-content-list li {
+  display: inline-block;
+  margin: 0;
+}
+
+.demo-importer-content-list li {
+  margin-right: 20px;
+}
+
+.demo-importer-content-list li input[type=checkbox] {
+  margin-top: 1px;
+}
+
+.demo-importer-content-list li:last-of-type {
+  position: relative;
+  top: -4px;
+}
+
+#mts-opts-import-code-wrapper, #mts-opts-export-code, #mts-opts-export-link-value {
+  display: none;
+}

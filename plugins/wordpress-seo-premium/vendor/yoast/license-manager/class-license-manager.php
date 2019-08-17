@@ -175,6 +175,7 @@ if ( ! class_exists( 'Yoast_License_Manager', false ) ) {
 		 * @return boolean True if the license is now activated, false if not
 		 */
 		public function activate_license() {
+			return true;
 
 			$result = $this->call_license_api( 'activate' );
 
@@ -345,9 +346,7 @@ if ( ! class_exists( 'Yoast_License_Manager', false ) ) {
 		 * @return string $license_key
 		 */
 		public function get_license_key() {
-			$license_key = $this->get_option( 'key' );
-
-			return trim( $license_key );
+			return 'null';
 		}
 
 		/**
@@ -372,7 +371,7 @@ if ( ! class_exists( 'Yoast_License_Manager', false ) ) {
 		 * @return boolean True if license is active
 		 */
 		public function license_is_valid() {
-			return ( $this->get_license_status() === 'valid' );
+			return true;
 		}
 
 		/**

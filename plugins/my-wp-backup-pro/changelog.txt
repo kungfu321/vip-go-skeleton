@@ -1,0 +1,231 @@
+v1.3.12 (Nov 1, 2018)
+----------------------------------
+- Fixed PHP error
+
+Changed files:
+- src/util.php
+- my-wp-backup-pro.php
+
+
+v1.3.11 (March 26, 2018)
+----------------------------------
+- Fixed OneDrive delete file issue
+
+Changed files:
+- src\Dest\OneDrive.php
+
+
+v1.3.10 (March 05, 2018)
+----------------------------------
+- PHP notice error fixed
+
+Changed files:
+- src/util.php
+
+v1.3.9 (Jan 18, 2018)
+----------------------------------
+- Updated OneDrive API calls
+
+Changed files:
+- my-wp-backup-pro.php
+- src/Dest/OneDrive.php
+
+v1.3.8 (Jul 10, 2017)
+----------------------------------
+- Update Google Drive client details
+
+Changed files:
+- my-wp-backup-pro.php
+- src/Admin/Job.php
+
+v1.3.7 (May 24, 2017)
+----------------------------------
+- Temporarily disable dumping database through shell
+
+Changed files:
+- my-wp-backup-pro.php
+- src/Database/Dumper/Dumper.php
+
+v1.3.6 (Apr 17, 2017)
+----------------------------------
+- Update oauth callback URIs
+
+Changed files:
+- languages/default.pot
+- languages/my-wp-backup.pot
+- my-wp-backup-pro.php
+- src/Dest/OneDrive.php
+- src/Rep/PushBullet.php
+
+v1.3.5 (Feb 05, 2017)
+----------------------------------
+- Improve support for Windows
+
+Changed files:
+- my-wp-backup-pro.php
+- src/Job.php
+
+v1.3.4 (Feb 05, 2017)
+----------------------------------
+- Fix issue with backup folder getting included in new backup
+- Fix issue with log kept restarting
+- Improve on job status detection
+
+Changed files:
+- js/run-job.js
+- my-wp-backup-pro.php
+- src/Admin/Admin.php
+- src/Job.php
+
+v1.3.3 (Jan 26, 2017)
+----------------------------------
+- Fix job status stuck to "Running" when it gets immediately terminated
+
+Changed files:
+- my-wp-backup-pro.php
+- src/Admin/Admin.php
+- src/Database/Dumper/Dumper.php
+- src/Job.php
+
+v1.3.2 (July 20, 2016)
+----------------------------------
+- Add a user notice when installing on a non-supported PHP version
+
+Changed files:
+- my-wp-backup-pro.php
+
+
+v1.3.1 (January 30, 2016)
+----------------------------------
+- Fix: upload chunk size not saving properly
+
+Changed files:
+- src/Admin/Admin.php
+- views/settings.php
+
+
+v1.3.0 (January 17, 2016)
+----------------------------------
+- Fix: Missing lines when viewing backup progress
+- Fix: Faulty import/export option
+- Improve: Update upload part size setting
+- New: Added job option to delete older backups from remote destination
+
+Changed files:
+- css/admin.css
+- js/run-job.js
+- js/viewprogress-backup.js
+- plugin-init.php
+- src/Admin/Admin.php
+- src/Admin/Job.php
+- src/Backup.php
+- src/Dest/Dropbox.php
+- src/Dest/OneDrive.php
+- src/Job.php
+- views/backups.php
+- views/jobs.php
+- views/settings.php
+
+
+v1.2.2 (October 15, 2015)
+----------------------------------
+- Fix: Cron now scheduled according to Wordpress's set timezone
+
+Changed filess:
+- src/Admin/Job.php
+
+
+v1.2.1 (October 03, 2015)
+----------------------------------
+- Fix: Database gets corrupted when import fails
+- Fix: Backup restore job duration was negative
+- Fix: Job not showing "Finished" when it fails
+- Improve: More helpful messages on failed database import
+- Fix: Skip directory scan when backing up only the database
+- Fix: Memory exhausted on testing exclude filters
+- Improve: Database export
+- Improve: Set error log for easier debugging
+- Minor improvements and optimizations
+
+Changed files:
+- languages/default.pot
+- languages/my-wp-backup-pro.mo
+- languages/my-wp-backup-pro.pot
+- my-wp-backup-pro.php
+- src/Admin/Admin.php
+- src/Admin/Backup.php
+- src/Admin/Job.php
+- src/Admin/Table/Backup.php
+- src/Archive.php
+- src/Cli/Backup.php
+- src/Database/Connection/Connection.php
+- src/Database/Connection/Mysql.php
+- src/Database/Connection/Mysqli.php
+- src/Database/DumpFile/DumpFile.php
+- src/Database/Dumper/Dumper.php
+- src/Database/Dumper/Shell.php
+- src/Database/ExportFile.php
+- src/Job.php
+- views/jobs.php
+
+
+v1.2.0 (Sep 20, 2015)
+----------------------------------
+- New: Add option to delete local backup copy
+- New: Get notified when a scheduled backup job fails
+- Fix: Support custom database port and socket host
+- Fix: Wrong job duration when job fails
+- Fix: unclear instructions on connecting accounts from services
+- Minor improvements and optimizations
+
+Changed files:
+- languages/default.pot
+- languages/my-wp-backup-pro.mo
+- languages/my-wp-backup-pro.pot
+- src/Admin/Admin.php
+- src/Admin/Backup.php
+- src/Admin/Job.php
+- src/Admin/Table/Backup.php
+- src/Cli/Backup.php
+- src/Database/Connection/Connection.php
+- src/Database/Connection/Mysql.php
+- src/Database/Connection/Mysqli.php
+- src/Database/Dumper/Dumper.php
+- src/Database/Dumper/Shell.php
+- src/Job.php
+- views/jobs.php
+
+
+v1.1.0 (Sep 17, 2015)
+----------------------------------
+- Fix: Predefined scheduled jobs failing to schedule
+- Fix: Remove 64bit PHP requirement
+- Fix: Cleanup created backup directory if the backup job fails
+- Fix: Completely remove Phar class usage
+- Fix: chunked upload size might exceed the memory limit
+- New: setting "Upload Size" to change the size of each chunk when chunk uploading
+- Minor improvements and optimizations
+
+Changed files:
+- my-wp-backup-pro.php
+- plugin-init.php
+- src/Archive.php
+- src/util.php
+- src/Admin/Admin.php
+- src/Admin/Job.php
+- src/Dest/OneDrive.php
+- src/Install/Activate.php
+- src/Job.php
+- views/jobs.php
+- views/settings.php
+- /vendor
+
+
+v1.0.1 (Sep 10, 2015)
+----------------------------------
+- Fix: Backup gets accidentally deleted when restoration fails
+
+
+v1.0 (Sep 8, 2015)
+----------------------------------
+- Plugin released

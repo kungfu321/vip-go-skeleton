@@ -1,0 +1,198 @@
+v1.0.14 (Jul 16, 2019)
+----------------------------
+- Fixed 'Upload Theme' button not working
+
+Files Updated:
+- includes/admin/class-mts-rmu.php
+- includes/admin/libs/mts-options/sass/options.sass
+- includes/admin/libs/mts-options/sass/partials/_sidebar.scss
+- includes/admin/libs/mts-options/css/options.css
+- includes/class-cyprus.php
+- sass/theme.scss
+- style.css
+
+
+v1.0.13 (July 02, 2019)
+----------------------------
+- Fixed fatal error if WooCommerce is not activated
+
+Files Updated:
+
+- includes/functions-cyprus-utility.php
+- includes/class-cyprus.php
+- sass/theme.scss
+- style.css
+
+
+v1.0.12 (Jun 28, 2019)
+----------------------------
+- Fixed child theme issue
+
+Files Updated:
+
+- includes/admin/child-theme/function.php
+- includes/class-cyprus-scripts.php
+- includes/class-cyprus.php
+- sass/theme.scss
+- style.css
+
+
+v1.0.11 (Jun 14, 2019)
+----------------------------
+- Fixed duplicate schema data when using 'Yoast', 'Rank Math SEO' or 'Schema Markup Rich Snippets' Plugin
+
+Files Updated:
+
+- includes/functions-cyprus-attr.php
+- includes/class-cyprus.php
+- sass/theme.scss
+- style.css
+
+
+v1.0.10 (Mar 21, 2019)
+----------------------------
+- Improved working with child theme
+
+Files Updated:
+
+- includes/functions-cyprus-template-tags.php
+- includes/class-cyprus.php
+- style.css
+
+
+v1.0.9 (Jan 23, 2019)
+----------------------------
+- Fixed contact form issue
+- Fixed popup styling of Ad blocker
+- Removed duplicate code related to sidebar
+- Changed all 'http' instances with 'https'
+
+Files Updated:
+- includes/contact-form.php
+- includes/class-cyprus.php
+- page-templates/contact.php
+- includes/class-cyprus-sidebars.php
+- includes/functions-cyprus-template-tags.php
+- includes/admin/libs/mts-options/options.php
+- includes/theme-options/footer.php
+- includes/widgets/widget-ad300.php
+- includes/widgets/widget-ad125.php
+- includes/class-cyprus-settings.php
+- includes/admin/libs/mts-options/templates/header.php
+- css/cyprus-woocommerce.css
+- sass/theme.scss
+- style.css
+
+
+v1.0.8 (Jan 08, 2019)
+----------------------------
+- Fixed a bug because of which background pattern option was not working
+- Updated the Rank Math’s auto installation process to give the control back to the users
+- Fixed ajax search and reset section issues
+- Fixed error notices on installation
+
+Files Updated:
+- includes/class-cyprus-dynamic-css.php
+- includes/class-cyprus-sanitize.php
+- includes/class-cyprus.php
+- includes/admin/class-mts-rmu.php
+- includes/admin/class-rank-math-notice.php
+- includes/admin/class-cyprus-admin-pages.php
+- includes/admin/class-cyprus-admin.php
+- includes/functions-cyprus-template-tags.php
+- includes/functions-cyprus-utility.php
+- includes/admin/libs/mts-options/options.php
+- includes/admin/assets/img/rank-math-banner.jpg
+- sass/theme.scss
+- style.css
+
+
+v1.0.7 (Dec 24th, 2018)
+----------------------------
+- Fixed pagination issue if latest posts section is not present on the homepage
+
+Files Updated:
+- includes/admin/child-theme/stylesheet.php
+- includes/admin/libs/mts-options/options.php
+- includes/class-cyprus-featured-layouts.php
+- includes/class-cyprus.php
+- sass/theme.scss
+- style.css
+
+
+v1.0.6 (Dec 24th, 2018)
+----------------------------
+- Fixed wrong link in category section title
+
+Files Updated:
+- includes/admin/child-theme/stylesheet.php
+- includes/admin/libs/mts-options/options.php
+- includes/class-cyprus-featured-layouts.php
+- includes/class-cyprus.php
+- sass/theme.scss
+- style.css
+
+
+v1.0.5 (Dec 19th, 2018)
+----------------------------
+- Fixed wrong schema itemtype attribute
+
+Files Updated:
+- includes/admin/child-theme/stylesheet.php
+- includes/class-cyprus-featured-layouts.php
+- includes/class-cyprus.php
+- includes/functions-cyprus-attr.php
+- includes/functions-cyprus-template-tags.php
+- sass/theme.scss
+- sidebar.php
+- style.css
+- template-parts/header/header-2.php
+- template-parts/header/header-3.php
+- template-parts/header/header-default.php
+
+
+v1.0.4 (Dec 09, 2018)
+----------------------------
+- Fixed Grid issue in layout 2
+
+Files Updated:
+- includes/class-cyprus-featured-layouts.php
+- template-parts/posts-layout-2.php
+- includes/class-cyprus.php
+- sass/theme.scss
+- style.css
+
+
+v1.0.3 (Nov 30, 2018)
+----------------------------
+- Fixed layout issues in the Internet Explorer 11
+
+Files Updated:
+- sass/theme.scss
+- style.css
+
+
+v1.0.2 (Nov 25, 2018)
+----------------------------
+- Fixed duplicate content issue with the Elementor plugin
+
+Files Updated:
+- includes/functions-cyprus-template-tags.php
+- includes/class-cyprus.php
+- style.css
+
+
+v1.0.1 (Nov 15, 2018)
+----------------------------
+- Added missing words in the translation file
+- Fixed styling issue of subscribe button on the Apple Devices
+
+Files Updated:
+- languages/cyprus.pot
+- sass/theme.scss
+- style.css
+
+
+v1.0.0 (Oct 29, 2018)
+----------------------------
+- Theme released

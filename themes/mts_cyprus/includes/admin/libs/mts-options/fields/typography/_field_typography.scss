@@ -1,0 +1,161 @@
+.typography-controls {
+	text-align: left;
+
+	border: 1px solid #d9d9d9;
+	border-radius: 4px;
+	background-color: #f5f5f5;
+
+	.typography-preview {
+		font-size: 30px;
+
+		position: relative;
+
+		padding: 20px;
+
+		border-radius: 4px 4px 0 0;
+		background: #fff;
+
+		&.dark {
+			background: #181818;
+		}
+	}
+
+	&-option {
+		position: relative;
+
+		padding: 20px;
+	}
+
+	label {
+		font-size: 12px;
+
+		position: relative;
+
+		display: block;
+
+		margin: 4px 0 2px;
+
+		cursor: default;
+		text-align: left;
+
+		color: #999;
+	}
+
+	.control-wrapper {
+		position: relative;
+
+		display: block;
+		float: left;
+		clear: none;
+
+		width: calc(50% - 10px);
+		height: 67px;
+		margin-right: 10px;
+
+		&.mini {
+			width: calc(25% - 10px);
+
+			input {
+				font-size: 12px;
+
+				width: 60%;
+				padding: 7px;
+
+				box-shadow: none !important;
+			}
+		}
+
+		&.large {
+			width: 65%;
+			height: auto;
+		}
+
+		&.auto-height {
+			height: auto;
+		}
+
+		textarea {
+			width: 100%;
+			height: 100px;
+			padding: 7px;
+
+			resize: none;
+		}
+
+		.select2-container {
+			width: 80% !important;
+		}
+	}
+}
+
+.typography-preview-color {
+	position: absolute;
+	top: 20px;
+	right: 10px;
+
+	a {
+		display: block;
+
+		width: 10px;
+		height: 10px;
+		margin-bottom: 5px;
+
+		cursor: pointer;
+
+		border: 1px solid rgba(0,0,0,.2);
+		border-radius: 50em;
+		background: #fff;
+	}
+
+	.dark {
+		border: 1px solid rgba(255,255,255,.4);
+		background: #000;
+	}
+}
+
+.typography-family-select2 {
+
+	.has-preview {
+		display: block;
+
+		height: 40px;
+		margin: 0;
+
+		border-left: 8px solid #fff;
+		background-color: #000;
+		background-repeat: no-repeat;
+		background-position-y: center;
+		background-size: cover;
+	}
+
+	.no-preview {
+		line-height: 1.7;
+
+		display: inline-block;
+
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
+	.select2-results__option {
+		padding: 0 6px;
+
+		&[aria-selected=true],
+		&--highlighted[aria-selected] {
+			color: #5897fb !important;
+			background-color: #fff !important;
+
+			.has-preview {
+				background-color: #5897fb;
+			}
+		}
+	}
+}
+
+@media (max-width: 1280px) {
+	.typography-controls .typography-color-wrapper {
+		clear: both;
+
+		width: 90%;
+	}
+}

@@ -246,11 +246,11 @@ class WPSEO_Premium_Prominent_Words_Recalculation implements WPSEO_WordPress_Int
 		$all_items = $this->post_query->get_totals( $this->get_post_types() );
 
 		$data = array(
-			'allWords'      => get_terms( WPSEO_Premium_Prominent_Words_Registration::TERM_NAME, array( 'fields' => 'ids' ) ),
-			'allItems'      => $all_items,
-			'totalItems'    => array_sum( $all_items ),
-			'message'       => array( 'analysisCompleted' => $this->message_already_indexed() ),
-			'restApi'       => array(
+			'allWords'             => get_terms( WPSEO_Premium_Prominent_Words_Registration::TERM_NAME, array( 'fields' => 'ids' ) ),
+			'nrOfItemsPerPostType' => $all_items,
+			'totalItems'           => array_sum( $all_items ),
+			'message'              => array( 'analysisCompleted' => $this->message_already_indexed() ),
+			'restApi'              => array(
 				'root'  => esc_url_raw( rest_url() ),
 				'nonce' => wp_create_nonce( 'wp_rest' ),
 			),
@@ -261,8 +261,14 @@ class WPSEO_Premium_Prominent_Words_Recalculation implements WPSEO_WordPress_Int
 			),
 		);
 
+		// Add feature flags to localization data.
+		$localization_data = array(
+			'data'            => $data,
+			'enabledFeatures' => WPSEO_Utils::retrieve_enabled_features(),
+		);
+
 		wp_enqueue_script( WPSEO_Admin_Asset_Manager::PREFIX . 'premium-site-wide-analysis' );
-		wp_localize_script( WPSEO_Admin_Asset_Manager::PREFIX . 'premium-site-wide-analysis', 'yoastSiteWideAnalysisData', array( 'data' => $data ) );
+		wp_localize_script( WPSEO_Admin_Asset_Manager::PREFIX . 'premium-site-wide-analysis', 'yoastSiteWideAnalysisData', $localization_data );
 	}
 
 	/**

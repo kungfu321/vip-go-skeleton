@@ -76,6 +76,29 @@ class WPSEO_Upgrade_Manager {
 		if ( version_compare( $version_number, '9.8-RC0', '<' ) ) {
 			add_action( 'init', array( $this, 'upgrade_9_8' ), 12 );
 		}
+
+		if ( version_compare( $version_number, '10.3', '<' ) ) {
+			add_action( 'init', array( $this, 'upgrade_11' ), 12 );
+		}
+	}
+
+	/**
+	 * Removes the orphaned content notification.
+	 *
+	 * @return void
+	 */
+	public function upgrade_11() {
+		$orphaned_content_support = new WPSEO_Premium_Orphaned_Content_Support();
+		$notification_manager     = Yoast_Notification_Center::get();
+
+		foreach ( $orphaned_content_support->get_supported_post_types() as $post_type ) {
+			// We need to remove the dismissal first, to clean up better but also as otherwise the remove won't work.
+			delete_metadata( 'user', false, 'wpseo-premium-orphaned-content-' . $post_type, '', true );
+			$notification_manager->remove_notification_by_id( 'wpseo-premium-orphaned-content-' . $post_type, true );
+		}
+
+		// Remove the cronjob if present.
+		wp_clear_scheduled_hook( 'wpseo-premium-orphaned-content' );
 	}
 
 	/**
@@ -126,11 +149,10 @@ class WPSEO_Upgrade_Manager {
 		if ( $this->should_retry_upgrade_31() ) {
 			if ( $immediately ) {
 				WPSEO_Redirect_Upgrade::upgrade_3_1();
+				return;
 			}
-			else {
-				add_action( 'wp', array( 'WPSEO_Redirect_Upgrade', 'upgrade_3_1' ), 12 );
-				add_action( 'admin_head', array( 'WPSEO_Redirect_Upgrade', 'upgrade_3_1' ), 12 );
-			}
+			add_action( 'wp', array( 'WPSEO_Redirect_Upgrade', 'upgrade_3_1' ), 12 );
+			add_action( 'admin_head', array( 'WPSEO_Redirect_Upgrade', 'upgrade_3_1' ), 12 );
 		}
 	}
 

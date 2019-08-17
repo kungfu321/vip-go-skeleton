@@ -1,0 +1,87 @@
+// main: ../cyprus-admin.scss
+
+.cyprus-system-status {
+    table {
+        margin-top: 20px;
+
+        tr:nth-child(2n) td,
+        tr:nth-child(2n) th {
+            background: #fcfcfc;
+        }
+
+        td:first-child {
+            width: 33%;
+        }
+
+        td.help {
+            width: 1em;
+        }
+
+        th {
+            font-weight: 700;
+
+            padding: 9px;
+        }
+    }
+
+    mark.error {
+        color: #a00;
+        background: 0;
+    }
+
+    mark.yes {
+        color: #7ad03a;
+        background: 0;
+    }
+
+    .help_tip {
+        position: relative;
+
+        display: inline-block;
+
+		cursor: pointer;
+
+        span {
+            display: none;
+
+            width: 160px;
+            padding: 5px 10px;
+
+            -webkit-transform: translateX(-50%);
+                    transform: translateX(-50%);
+            text-align: center;
+
+            color: #fff;
+            border-radius: 5px;
+            background: #000;
+
+            @include position( absolute, null null 100% 50% );
+        }
+
+        &:hover span {
+            display: block;
+        }
+    }
+}
+
+#debug-report {
+    display: none;
+
+    textarea {
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 20px;
+
+        width: 100%;
+        height: 300px;
+        margin: 0;
+        padding: 20px;
+
+        resize: none;
+
+        -webkit-border-radius: 0;
+           -moz-border-radius: 0;
+                border-radius: 0;
+        outline: 0;
+    }
+}

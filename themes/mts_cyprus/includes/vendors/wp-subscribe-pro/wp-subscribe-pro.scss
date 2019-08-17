@@ -1,0 +1,152 @@
+// compileCompressed: $1.css
+
+@mixin clearfix {
+  &:before,
+    &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+@mixin placeholder {
+  &::-webkit-input-placeholder {@content}
+  &:-moz-placeholder           {@content}
+  &::-moz-placeholder          {@content}
+  &:-ms-input-placeholder      {@content}
+}
+
+.wp-subscribe-wrap {
+    padding: 20px;
+
+    text-align: center;
+
+	h4.title {
+	    font-size: 22px;
+	    line-height: 1;
+
+	    margin-bottom: 0;
+
+	    text-transform: uppercase;
+
+		span {
+		    font-size: 38px;
+		    font-weight: bold;
+
+		    display: inline-block;
+
+		    margin-top: 15px;
+		}
+
+		#wp_subscribe_popup & {
+		    margin-top: 0;
+		}
+	}
+
+	p {
+	    margin: 0;
+		opacity: .8;
+
+		&.text {
+		    margin: 15px 0;
+		}
+
+		&.footer-text {
+		    font-size: 12px;
+
+		    margin-top: 10px;
+		}
+	}
+
+	input {
+	    box-sizing: border-box;
+	    width: 100%;
+	    height: 45px;
+	    margin: 0;
+	    padding: 10px 0;
+
+	    text-align: center;
+	    text-indent: 20px;
+
+	    border: none;
+	    border-radius: 0;
+	    box-shadow: none;
+
+		@include placeholder{
+			opacity: .8;
+		    color: inherit;
+		};
+
+		&:focus {
+			@include placeholder{
+				color: transparent !important;
+			};
+		}
+	}
+
+	.email-field {
+	    margin-top: 10px;
+	}
+
+	input.email-field,
+	input.name-field {
+	    color: #666;
+	    background: #fff;
+	}
+
+	input.submit {
+	    font-size: 18px;
+	    font-weight: 500;
+
+	    margin-top: 20px;
+
+	    cursor: pointer;
+	    text-transform: uppercase;
+
+	    color: #fff;
+	    background: #666;
+	    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .05);
+	}
+
+	.error,
+	.thanks {
+	    margin-top: 10px;
+		display: none;
+	}
+
+	// Loader
+	.wp-subscribe-loader {
+	    display: none;
+	    padding: 1em;
+
+	    text-align: center;
+	    vertical-align: top;
+	}
+
+	&.loading {
+		.wp-subscribe-form {
+			display: none;
+		}
+		.wp-subscribe-loader {
+			display: block;
+		}
+	}
+
+	.wp-subscribe-style-inline & {
+		input.email-field {
+			float: left;
+			width: 76%;
+			text-align: left;
+			text-indent: 20px;
+		}
+
+		.submit {
+			float: left;
+			width: 24%;
+			margin-top: 10px;
+			text-indent: 0;
+		}
+	}
+}

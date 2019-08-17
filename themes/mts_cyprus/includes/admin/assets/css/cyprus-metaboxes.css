@@ -1,0 +1,354 @@
+/* compileExpanded: ../css/$1.css*/
+#cyprus_page_options .inside, #cyprus_page_options .inside, #cyprus_post_options .inside, #cyprus_portfolio_options .inside, #cyprus_woocommerce_options .inside {
+    margin: 0;
+    padding: 0;
+}
+
+.cyprus_metabox_wrapper {
+    background: #f5f5f5;
+}
+
+.cyprus_metabox_tabs {
+    float: left;
+    box-sizing: border-box;
+    width: 17%;
+    margin: 0;
+    padding: 0;
+    /* Icons*/
+}
+
+.rtl .cyprus_metabox_tabs {
+    float: right;
+}
+
+.cyprus_metabox_tabs li {
+    margin: 0;
+    padding: 0;
+}
+
+.cyprus_metabox_tabs li a {
+    font-size: 13px;
+    display: block;
+    padding: 13px;
+    text-decoration: none;
+    word-wrap: break-word;
+    color: #222;
+    border-right: 1px solid #e2dddb;
+    border-bottom: 1px solid #e2dddb;
+    box-shadow: none;
+}
+
+.cyprus_metabox_tabs li a:before {
+    font-family: dashicons;
+    font-size: 20px;
+    position: relative;
+    top: 5px;
+    margin-right: 10px;
+    content: '\f347';
+    color: #777;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    speak: none;
+}
+
+.cyprus_metabox_tabs li.active a,
+.cyprus_metabox_tabs li a:hover {
+    border-right-color: transparent;
+    background-color: #fff;
+}
+
+.cyprus_metabox_tabs a[href^='sliders']:before {
+    content: '\f134';
+}
+
+.cyprus_metabox_tabs a[href^='page']:before {
+    content: '\f105';
+}
+
+.cyprus_metabox_tabs a[href^='header']:before {
+    content: '\f535';
+}
+
+.cyprus_metabox_tabs a[href^='footer']:before {
+    content: '\f209';
+}
+
+.cyprus_metabox_tabs a[href^='sidebar']:before {
+    content: '\f489';
+}
+
+.cyprus_metabox_tabs a[href^='background']:before {
+    content: '\f128';
+}
+
+.cyprus_metabox_tabs a[href^='portfolio']:before {
+    content: '\f233';
+}
+
+.cyprus_metabox_tabs a[href^='pagetitlebar']:before {
+    content: '\f116';
+}
+
+.cyprus_metabox_tabs a[href^='post']:before,
+.cyprus_metabox_tabs a[href^='faq_page']:before {
+    content: '\f123';
+}
+
+.cyprus_metabox {
+    float: left;
+    background: #fff;
+    box-sizing: border-box;
+    min-height: 450px;
+    width: 83%;
+    padding: 30px;
+    padding-bottom: 10px;
+}
+
+.rtl .cyprus_metabox {
+    float: right;
+}
+
+.cyprus_metabox_tab {
+    display: none;
+}
+
+.cyprus_metabox_tab.active {
+    display: block;
+}
+
+.cyprus_metabox_field {
+    overflow: hidden;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #fafafa;
+}
+
+.cyprus_metabox_tab .cyprus_metabox_field:first-child {
+    padding-top: 0;
+}
+
+#poststuff .cyprus_metabox h3 {
+    font-size: 17px !important;
+    margin: 10px 0 5px 0;
+    padding-left: 0 !important;
+    color: #b5b4b4;
+}
+
+.cyprus_desc {
+    float: left;
+    width: 44.5%;
+}
+
+.cyprus_desc label {
+    font-size: 13px;
+    color: #222;
+}
+
+.cyprus_desc p {
+    font-size: 12px;
+    margin: 0;
+    margin-top: 8px;
+    color: #939393;
+}
+
+.cyprus_field {
+    position: relative;
+    float: right;
+    width: 51%;
+    margin-right: 1px;
+}
+
+.cyprus_field input[type=text],
+.cyprus_field select {
+    font-size: 13px;
+    line-height: 32px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 34px;
+    margin: 0;
+    padding-left: .75em;
+    color: #333;
+    border: 1px solid rgba(0, 0, 0, 0.05) !important;
+    background: #f4f2f2 !important;
+    box-shadow: none !important;
+}
+
+/* Select Field Styling*/
+.cyprus_field .select2-container:focus,
+.cyprus_field .select2-container *:focus {
+    outline: 0;
+}
+
+.cyprus_field .select2-container .select2-selection {
+    height: 34px;
+    padding-left: .75em;
+    border-color: rgba(0, 0, 0, 0.05) !important;
+    border-radius: 0 !important;
+    background-color: #f4f2f2;
+    box-shadow: none !important;
+}
+
+.cyprus_field .select2-container .select2-selection > .select2-selection__rendered {
+    line-height: 32px;
+}
+
+.cyprus_field .select2-container .select2-selection .select2-selection__arrow {
+    width: 31px;
+    height: 32px;
+    -webkit-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
+    background: #f4f2f2;
+    box-shadow: none !important;
+}
+
+.cyprus_field .select2-container .select2-selection .select2-selection__arrow b {
+    margin: 0;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 0;
+    height: auto;
+    width: auto;
+}
+
+.cyprus_field .select2-container .select2-selection .select2-selection__arrow b:after {
+    font-family: dashicons;
+    font-size: 12px;
+    content: '\f347';
+    color: #777;
+}
+
+.select2-dropdown.cyprus-select2 {
+    border-color: rgba(0, 0, 0, 0.05);
+    border-radius: 0;
+    background: #f4f2f2;
+}
+
+.select2-dropdown.cyprus-select2 .select2-results__options li:last-child {
+    margin-bottom: 0;
+}
+
+.select2-dropdown.cyprus-select2 .select2-results .select2-results__option {
+    line-height: 29px;
+    overflow: hidden;
+    height: 32px;
+    padding: 0 .75em;
+}
+
+/* Button set styling*/
+.cyprus_field.cyprus-buttonset {
+    overflow: hidden;
+}
+
+.cyprus_field.cyprus-buttonset a {
+    font-size: 14px;
+    float: left;
+    color: #333;
+    min-width: 60px;
+    max-width: 300px;
+    padding: 6px 14px;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.cyprus_field.cyprus-buttonset a:first-of-type {
+    border-right: 0;
+    border-radius: 4px 0 0 4px;
+}
+
+.cyprus_field.cyprus-buttonset a:last-of-type {
+    border-left: 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.cyprus_field.cyprus-buttonset .buttonset-state-active {
+    color: #fff;
+    border-color: rgba(0, 0, 0, 0.1) !important;
+    background-color: #00a0d2;
+}
+
+.cyprus_upload {
+    overflow: hidden;
+    padding-bottom: 5px;
+}
+
+.cyprus_upload input.upload_field {
+    float: left;
+    width: calc( 100% - 100px);
+}
+
+.cyprus_upload .cyprus_upload_button {
+    float: left;
+    width: 90px;
+    height: 34px;
+    margin: 0 0 0 5px;
+    color: #333;
+    border: 1px solid #c7c5c5;
+    border-radius: 0;
+    background: none repeat scroll 0 0 #fff;
+    box-shadow: none;
+}
+
+.cyprus-dimension {
+    margin-right: 10px;
+    margin-bottom: 7px;
+    font-size: 0;
+    white-space: nowrap;
+    display: inline-block;
+    margin-bottom: 6px;
+    overflow: hidden;
+}
+
+.cyprus-dimension .add-on {
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    border-right: none !important;
+    height: 34px;
+    width: 34px;
+    font-size: 12px;
+    background-color: #fff;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.5);
+    border: none;
+    padding: 0;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    text-shadow: 0 1px 0 #ffffff;
+    display: block;
+    float: left;
+    min-width: 16px;
+}
+
+.cyprus-dimension .add-on i {
+    font-size: 13px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    height: 32px;
+    line-height: 32px;
+}
+
+.cyprus-dimension input[type="text"] {
+    width: 68px;
+    padding: 0px 0.75em;
+    float: left;
+    margin: 0;
+    text-align: center;
+}
+
+.cyprus_field textarea {
+    background: #f4f2f2 !important;
+    border: 1px solid rgba(0, 0, 0, 0.05) !important;
+    box-shadow: none !important;
+    margin: 0;
+}
+
+#cyprus_tab_pagetitlebar #cyprus_page_title_custom_text,
+#cyprus_tab_pagetitlebar #cyprus_page_title_custom_subheader {
+    padding: 7px 15px;
+    resize: none;
+}

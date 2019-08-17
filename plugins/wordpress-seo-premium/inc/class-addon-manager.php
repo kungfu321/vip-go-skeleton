@@ -110,7 +110,6 @@ class WPSEO_Addon_Manager {
 		}
 
 		return $this->get_site_information_default();
-
 	}
 
 	/**
@@ -243,14 +242,7 @@ class WPSEO_Addon_Manager {
 	 * @return bool True when the subscription is valid.
 	 */
 	public function has_valid_subscription( $slug ) {
-		$subscription = $this->get_subscription( $slug );
-
-		// An non-existing subscription is never valid.
-		if ( $subscription === false ) {
-			return false;
-		}
-
-		return ! $this->has_subscription_expired( $subscription );
+		return true;
 	}
 
 	/**
@@ -460,7 +452,7 @@ class WPSEO_Addon_Manager {
 	/**
 	 * Filters the given array by its keys.
 	 *
-	 * This method is temporary. When WordPress has minimaal PHP 5.6 support we can change this to:
+	 * This method is temporary. When WordPress has minimal PHP 5.6 support we can change this to:
 	 *
 	 * array_filter( $array_to_filter, $filter, ARRAY_FILTER_USE_KEY )
 	 *

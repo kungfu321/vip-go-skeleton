@@ -1,0 +1,126 @@
+// main: ../cyprus-admin.scss
+
+.cyprus-wrap {
+	position: relative;
+	margin: 25px 40px 0 20px;
+	max-width: 1050px; /* readability */
+	font-size: 15px;
+
+	hr {
+		border: 0;
+		height: 0;
+		margin: 0;
+		border-top: 1px solid rgba(0, 0, 0, 0.1);
+	}
+
+	img {
+		margin: 0;
+		max-width: 100%;
+		height: auto;
+		vertical-align: middle;
+		border: 1px solid rgba(0, 0, 0, 0.1);
+	}
+
+	/* Tabs */
+	.nav-tab {
+		padding-right: 15px;
+		padding-left: 15px;
+		font-size: 18px;
+	}
+
+	/* 1.1 - Typography */
+	p {
+		line-height: 1.5;
+		font-size: 14px;
+	}
+
+	h1 {
+		margin: 0.2em 200px 0 0;
+		padding: 0;
+		color: #32373c;
+		line-height: 1.2em;
+		font-size: 2.8em;
+		font-weight: 400;
+	}
+
+	h2 {
+		margin: 40px 0 .6em;
+		font-size: 2.7em;
+		line-height: 1.3;
+		font-weight: 300;
+		text-align: center;
+	}
+
+	h3 {
+		margin: 1.25em 0 .6em;
+		font-size: 1.4em;
+		line-height: 1.5;
+	}
+
+	h4 {
+		color: #23282d;
+	}
+
+	.about-description,
+	.about-text {
+		margin-top: 1.4em;
+		font-weight: 400;
+		line-height: 1.6em;
+		font-size: 19px;
+	}
+
+	.about-text {
+		margin: 1em 200px 1em 0;
+		min-height: 60px;
+		color: #555d66;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.cyprus-wrap {
+		margin-right: 20px;
+		margin-left: 10px;
+
+		h1,
+		.about-text {
+			margin-right: 0;
+		}
+
+		.about-text {
+			margin-bottom: 0.25em;
+		}
+	}
+}
+
+.cyprus-block {
+	margin-top: 40px;
+}
+
+.cyprus-white-block {
+	background: #fff;
+	padding: 10px 20px;
+	margin-top: 20px;
+	border-radius: 4px;
+
+	p {
+		font-size: 16px;
+	}
+}
+
+.cyprus-connect-form {
+	.input-text-wrap {
+		display: inline-block;
+		width: calc( 33% - 20px );
+		margin-right: 20px;
+
+		label {
+			display: block;
+			font-size: 13px;
+			font-weight: 600;
+		}
+
+		.button {
+			vertical-align: baseline;
+		}
+	}
+}

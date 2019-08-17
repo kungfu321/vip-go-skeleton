@@ -1,0 +1,132 @@
+/* compileExpanded: ../css/$1.css*/
+
+@import 'vendor/bourbon/bourbon';
+@import 'variables';
+
+.demo-list {
+	overflow: hidden;
+
+	margin-top: 30px;
+
+	&--item {
+		float: left;
+		position: relative;
+
+		-webkit-box-sizing: border-box;
+				box-sizing: border-box;
+		width: 25%;
+		margin-left: -10px;
+		margin-right: 10px;
+
+		&.highlighted &-wrapper {
+			border: 1px solid #007cb2;
+    	-webkit-box-shadow: 0 0px 2px 0px #007cb2;
+    	box-shadow: 0 0px 2px 0px #007cb2;
+		}
+
+		&-wrapper {
+			margin: 10px;
+
+			border: 1px solid #dedede;
+			-webkit-box-shadow: 0 1px 1px -1px rgba(0, 0, 0, .1);
+					box-shadow: 0 1px 1px -1px rgba(0, 0, 0, .1);
+		}
+
+		img {
+			display: block;
+
+			max-width: 100%;
+			cursor: pointer;
+
+			-webkit-transition: opacity .2s ease-in-out 0s, -webkit-transform .2s ease-in-out 0s;
+					transition: opacity .2s ease-in-out 0s, -webkit-transform .2s ease-in-out 0s;
+					transition: opacity .2s ease-in-out 0s, transform .2s ease-in-out 0s;
+					transition: opacity .2s ease-in-out 0s, transform .2s ease-in-out 0s, -webkit-transform .2s ease-in-out 0s;
+		}
+
+		&-screenshot {
+			position: relative;
+			overflow: hidden;
+			text-align: center;
+			display: block;
+			&:focus {
+				-webkit-box-shadow: none;
+				box-shadow: none;
+			}
+		}
+
+		h3 {
+			max-width: 100%;
+			margin: 0;
+			padding: 10px;
+
+			background: #ebebeb;
+		}
+
+		&-actions {
+			max-width: 100%;
+			margin: 0;
+			padding: 10px;
+			background: #ebebeb;
+		}
+
+		&:hover img {
+			-webkit-transform: scale(1.1);
+					transform: scale(1.1);
+
+		}
+
+	}
+
+	.button-primary .dashicons {
+		margin-top: 4px;
+		width: 12px;
+	}
+}
+
+.demo-importer-content-list {
+	max-width: 800px;
+	margin: 10px 0 20px 0;
+	padding: 20px;
+
+	border: 1px solid #dedede;
+	background: #fff;
+	-webkit-box-shadow: 0 1px 1px -1px rgba(0, 0, 0, .1);
+			box-shadow: 0 1px 1px -1px rgba(0, 0, 0, .1);
+
+	display: none;
+
+	h4 {
+		margin: 0 0 10px;
+		font-size: 18px;
+	}
+
+	h5 {
+		margin: 0 0 4px;
+		font-size: 13px;
+		line-height: 2;
+	}
+
+	ul,
+	li {
+		display: inline-block;
+
+		margin: 0;
+	}
+
+	li {
+		margin-right: 20px;
+
+		input[type=checkbox] {
+			margin-top: 1px;
+		}
+
+		&:last-of-type {
+			position: relative;
+			top: -4px;
+		}
+	}
+}
+#mts-opts-import-code-wrapper, #mts-opts-export-code, #mts-opts-export-link-value {
+	display: none;
+}
